@@ -1,8 +1,8 @@
-###Ideation
+### Ideation
 
 *Friday, October 10th 2025*
 
-##Early Concepts
+## Early Concepts
 Here are the game ideas I came up with during the first big brainstorm. Some are more appropriate than others in terms of project feasability (scale, complexity, etc.)
 
 Shortly before this brainstorm, I attended a workshop at the 2025 Queerness in Games Conference where Meghan Blythe Adams ran an ideation session for making games about non-monogamies. When I arrived, my intention was to work on an idea that popped into my head after listening to Avery Alder's keynote (see: Idea 1). I realized pretty quickly that I would have years to develop my own ideas and only this unique opportunity to listen and observe as a room full of people shared their thinking and tried to make something together. Abandoning the need to have attention paid to my own idea turned out to be a really valuable learning experience. 
@@ -69,7 +69,7 @@ For reference, here is a link to [some gameplay footage from *Spiritfarer*](http
 
 *Saturday, October 11th, 2025*
 
-##Refining Early Concepts
+## Refining Early Concepts
 
 **Themes/concepts:** 
 -Pleasures and anxieties of the body
