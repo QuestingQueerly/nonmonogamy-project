@@ -103,3 +103,6 @@ Some things that are standing out to me in the moment:
 - The 1860s version uses a *Snakes n' Ladders* style checkered game board where players can move up or down depending on the kinds of spaces they land on. Unlike the track in the 1960s version that shows a clear progression forward through life, this older version uses a clear spatial metaphor of up = good, down = bad, modeling the life/relationship escalator with clear correct steps to reach the top. 
 
 Key source for learning about *The Checkered Game of Life*: [The Big Game Hunter](https://thebiggamehunter.com/games-one-by-one/checkered-game-of-life/) 
+
+*Sunday, October 19th, 2025*
+
