@@ -116,7 +116,7 @@ In both games, players compete to construct the a successful life narrative.
 In both games, players attempt this through movement around the board.  
 In both games, refusing to move is not an option. Progress is the rule. 
 
-2. **Movement** 
+2. **Movement**   
 In *CGoL*, players make active decisions about how they move around the board. 
 - These decisions are based on a known outcome (the space where they will land and its effect). 
 - The range of possible choices players can make about the direction of movement is determined by chance (the teetotum).
@@ -131,7 +131,7 @@ In *GoL*, players rarely make active decisions about movement along the track.
 - Players can move a higher number of spaces at a time with less flexibility. 
 - Players must follow the same mostly linear path in pursuit of the objective. 
 
-3. **Accumulation**  
+3. **Accumulation**   
 In *CGoL*, players construct a successful life narrative by accumulating points. 
 - Players collect points by landing on squares that represent positive conditions, traits, or milestones. 
 - Points are a numeric representation of players' ability to keep moving and making good choices through life's ups and downs. 
@@ -144,24 +144,24 @@ In *GoL*, players construct a successful life narrative by accumulating the most
 - Players must accumulate as much as they can to navigate the risk involved in pursuing the win condition (becoming a Tycoon or being the richest player in Millionaire Acres)
 - Players regularly effect one another's efforts to accumulate by capital, both by chance (e.g., required monetary gifts) and by choice (e.g., taking Revenge!, Share the Wealth cards)
 
-4. **Win States**  
+4. **Win States**   
 In *CGoL*, a player wins when they earn a place on the "Happy Old Age" square by accumulating 100 points and reach it before their opponents.  
 
 In *GoL*, a player wins by having accumulated the most financial capital by the time everyone has reached the end of the track, either by outranking them in a final count or by winning an all-or-nothing bet. 
 
-5. **Life Narratives**  
+5. **Life Narratives**   
 The story that *CGoL* tells is that you can earn a happy existence if you persevere through life's trials and tribulations, upholding what it means to have moral character in the eyes of God and society.  
 
 The story of *GoL* is a retelling of the myth of meritocracy. You earn a shot at luxury, safety, and security by accumulating as much financial capital as possible through the same rat race everyone else is running. As long as you keep participating in the market as a good capitalist subject who is willing to act at the expense of others to win, you can not only succeed, but be the *most* successful.  
 
 In both of these games, the storyline of one's life has an aspirational trajectory: You start from the bottom and earn your spot in The Good Place, whether that place is *CGoL*'s happy old age or *GoL*'s fancy retirement in a gated community reserved for the ultra-wealthy. 
 
-6. **Describing/Reflecting VS Prescribing/Reacting**  
+6. **Describing/Reflecting VS Prescribing/Reacting**   
 One of the major differenes at work here is in how players make the journey from their respective bottoms to their respective tops. So, let's come back to movement. The numbered list above shows how the relationship between chance/movement/decision-making shapes the life story of each game. The narratives this relationship produces is always some combination of descriptive and prescriptive.    
 
 That said, I think I want to argue that *CGoL* is more descriptive/reflective while *GoL* is more prescriptive/reactive. 
 
-**CGoL: Descriptive/Reflective?**  
+**CGoL: Descriptive/Reflective?**   
 Of course, *CGoL* involves some level of prescriptive logic: The rules say players must accumulate a specific amount of Good-Hard-Working-Person points to earn their rightful place on the Happy Old Age space. This expectation of what to do/what it means to be good is clearly defined and enforced via the rules.  
 
 The thing is, the cadence of movement itself leans into mode of play that invites description. Every time players spin the teetoum and make a decision about what direction to move in and how far, they are agentically constructing a path from a *known* Point A to a *known* Point B. Players have to hop around the board to progress, and the process of deciding how to hop around the board generates a micro, descriptive account of *what did happen* to accompany the game's macro prescriptive account of *what should happen.*  
@@ -172,7 +172,7 @@ As a result, the game may invite players to regularly reflect on their choices b
 
 Each turn of spinning/deciding/moving involves active choices that invite players to reflect on the social, ethical, and philosophical minutae of the life story they are constructing in the game, and potentially their own life story outside the game. This process generates an descriptive account of who you are, whether you are a good person, what you offer to society, and ultimately what you've earned and deserve in the end. 
 
-**GoL: Prescriptive/Reactive?**  
+**GoL: Prescriptive/Reactive?**   
 *GoL* does offer some opportunity for players to construct a descriptive account of their life's trajectory: One player may decide to go into business while another chooses college; One player might choose to buy new clothes while another prioritizes marriage and saves up for a diamond ring. Players can absolutely reflect on these choices, what they mean for their progress in the game, and how they relate their real-world values (or not).  
 
 The thing is, these choices are 1. rare and 2. locked between fixed points: Forks in the road like the Business and College routes are rare and ultimately lead to the same places; Getting married and having children are a requirement if you want to progress down the track. Unlike in *CGoL*, everyone functionally travels down the same path. Even if you circle back to a familiar stretch of road, the only way fowrard is forward and all roads lead to the same destination.  
