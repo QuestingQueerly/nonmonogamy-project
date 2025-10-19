@@ -99,10 +99,98 @@ On this board, I started by sketching out the research context and coming up wit
 I originally narrowed my game selection down to a non-digital option, *The Game of Life*, and a digital option, *Pac-Man*. While working with a classic arcade game would probably be simpler than let's say, *Settlers of Catan*, I think *The Game of Life* is the meatiest option to work with, especially given the way the game has evolved over time. I've used the Miro board as a space to map out the different elements that make up *The Game of Life*, as well as the (significant) differences between the 1860s and 1960s versions. 
 
 Some things that are standing out to me in the moment:
-- The differences between 1860s *Life* and 1960s *life* appear to be mostly formal; the game's messaging about the importance of reaching expected milestones and what it means to be a "good" subject and live a "good" life remains somewhat consistent, it's just updated to suit the time period of that version's production. For example, in more recent versions, players can adopt pets as well as have kids, and both are represented by plastic pegs. 
+- The differences between 1860s *Life* and 1960s *Life* appear to be mostly formal; the game's messaging about the importance of reaching expected milestones and what it means to be a "good" subject and live a "good" life remains somewhat consistent, it's just updated to suit the time period of that version's production. For example, in more recent versions, players can adopt pets as well as have kids, and both are represented by plastic pegs. 
 - The 1860s version uses a *Snakes n' Ladders* style checkered game board where players can move up or down depending on the kinds of spaces they land on. Unlike the track in the 1960s version that shows a clear progression forward through life, this older version uses a clear spatial metaphor of up = good, down = bad, modeling the life/relationship escalator with clear correct steps to reach the top. 
 
 Key source for learning about *The Checkered Game of Life*: [The Big Game Hunter](https://thebiggamehunter.com/games-one-by-one/checkered-game-of-life/) 
 
+
+## Compare, Contrast, Concerns
+
 *Sunday, October 19th, 2025*
 
+I wanted to revisit what I originally wrote when comparing *The Checkered Game of Life* (1860) to *The Game of Life* (1960) (hereafter *CGoL* and *GoL*). After sitting with the materials for a bit, I think I have a better sense of the differences between these designs. I'm hoping that identifying these differences will help me identify helpful points of intervention for tinkering. Starting with competition, each point in this list leads into the next, concluding with how each game goes about building a life story for players. 
+
+1. **Competition**
+In both games, players compete to construct the a successful life narrative. 
+In both games, players attempt this through movement around the board. 
+In both games, refusing to move is not an option. Progress is the rule. 
+
+2. **Movement**
+In *CGoL*, players make active decisions about how they move around the board. 
+- These decisions are based on a known outcome (the space where they will land and its effect). 
+- The range of possible choices players can make about the direction of movement is determined by chance (the teetotum).
+- Movement is incremental (1-2 spaces) and multidirectional (left, right, up, down, and diagonal).
+- Players can move fewer spaces at a time with relative flexibility. 
+- Players can take different multidirectional and incremental paths in pursuit of the objective.  
+
+In *GoL*, players rarely make active decisions about movement along the track.
+- The distance of movement (1-10 spaces) is determined by chance (the spinner).
+- The direction of movement is mostly determined by the track. 
+- The only time players decide the direction is at a fork in the road, which is not a decision based on outcomes (a known space and its effect), but a decision based on risk (the range of spaces where they could land and their potential effects). 
+- Players can move a higher number of spaces at a time with less flexibility. 
+- Players must follow the same mostly linear path in pursuit of the objective. 
+
+3. **Accumulation**
+In *CGoL*, players construct a successful life narrative by accumulating points. 
+- Players collect points by landing on squares that represent positive conditions, traits, or milestones. 
+- Points are a numeric representation of players' ability to keep moving and making good choices through life's ups and downs. 
+- Players must accumulate a minimum number of points (50) before they can pursue the win condition (landing on the "Happy Old Age" space). 
+- Players do not effect one anothers' pathways/ efforts to gather points. 
+
+In *GoL*, players construct a successful life narrative by accumulating the most money. 
+- Players gain and spend money through a combination of chance-based mechanics (the spinner, landing on spaces) and choice-based mechanics (e.g., optional purchases, Share The Wealth cards). 
+- The in-game currency and the bank are representative of real-world money, markets, and financial institutions. All non-monetary assets (e.g., children) are all rendered back into capital at the end. 
+- Players must accumulate as much as they can to navigate the risk involved in pursuing the win condition (becoming a Tycoon or being the richest player in Millionaire Acres)
+- Players regularly effect one another's efforts to accumulate by capital, both by chance (e.g., required monetary gifts) and by choice (e.g., taking Revenge!, Share the Wealth cards)
+
+4. **Win States**
+In *CGoL*, a player wins when they earn a place on the "Happy Old Age" square by accumulating 100 points and reach it before their opponents.
+
+In *GoL*, a player wins by having accumulated the most financial capital by the time everyone has reached the end of the track, either by outranking them in a final count or by winning an all-or-nothing bet. 
+
+5. **Life Narratives**
+The story that *CGoL* tells is that you can earn a happy existence if you persevere through life's trials and tribulations, upholding what it means to have moral character in the eyes of God and society. 
+
+The story of *GoL* is a retelling of the myth of meritocracy. You earn a shot at luxury, safety, and security by accumulating as much financial capital as possible through the same rat race everyone else is running. As long as you keep participating in the market as a good capitalist subject who is willing to act at the expense of others to win, you can not only succeed, but be the *most* successful. 
+
+In both of these games, the storyline of one's life has an aspirational trajectory: You start from the bottom and earn your spot in The Good Place, whether that place is *CGoL*'s happy old age or *GoL*'s fancy retirement in a gated community reserved for the ultra-wealthy. 
+
+6. **Describing/Reflecting VS Prescribing/Reacting**
+One of the major differenes at work here is in how players make the journey from their respective bottoms to their respective tops. So, let's come back to movement. The numbered list above shows how the relationship between chance/movement/decision-making shapes the life story of each game. The narratives this relationship produces is always some combination of descriptive and prescriptive. 
+
+That said, I think I want to argue that *CGoL* is more descriptive/reflective while *GoL* is more prescriptive/reactive. 
+
+<u> *CGoL*: Descriptive/Reflective?** <u> 
+Of course, *CGoL* involves some level of prescriptive logic: The rules say players must accumulate a specific amount of Good-Hard-Working-Person points to earn their rightful place on the Happy Old Age space. This expectation of what to do/what it means to be good is clearly defined and enforced via the rules. 
+
+The thing is, the cadence of movement itself leans into mode of play that invites description. Every time players spin the teetoum and make a decision about what direction to move in and how far, they are agentically constructing a path from a *known* Point A to a *known* Point B. Players have to hop around the board to progress, and the process of deciding how to hop around the board generates a micro, descriptive account of *what did happen* to accompany the game's macro prescriptive account of *what should happen.*
+
+As a result, the game may invite players to regularly reflect on their choices both in terms of how they affect the chance of winning/losing, in terms of their real-world decisions, and in terms of how they feel about the overall life story that's emerging. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Example: All players are trying to accumulate points to reach the Happy Old Age space. Player 1 doesn't make it far from Infancy before landing on Ambition and being sent downward to Fame (a supposedly shameful place). Player 1 strategizes about their new position on the board and how they might use different rolls to leave Fame behind in pursuit of more points. On their next turn, Player 1 lands on Bravery and is sent to Honor. Player 1 reflects on how trying to become famous requires its own form of bravery (opposing the game's prescriptive logic)/a time when someone they knew brought dishonour on themselves by trying and failing to become famous (aligning with the game's prescriptive logic). Player 2 lands on the Matrimony space and Player 1 thinks about how their friends got married before they did, wondering when they will find someone. On their next turn, Player 1 decides whether trying to land on Matrimony is worth it on their way to Happy Old Age (it isn't worth any points, after all)...
+
+Each turn of spinning/deciding/moving involves active choices that invite players to reflect on the social, ethical, and philosophical minutae of the life story they are constructing in the game, and potentially their own life story outside the game. This process generates an descriptive account of who you are, whether you are a good person, what you offer to society, and ultimately what you've earned and deserve in the end. 
+
+<u> *GoL*: Prescriptive/Reactive? <u>
+*GoL* does offer some opportunity for players to construct a descriptive account of their life's trajectory: One player may decide to go into business while another chooses college; One player might choose to buy new clothes while another prioritizes marriage and saves up for a diamond ring. Players can absolutely reflect on these choices, what they mean for their progress in the game, and how they relate their real-world values (or not). 
+
+The thing is, these choices are 1. rare and 2. locked between fixed points: Forks in the road like the Business and College routes are rare and ultimately lead to the same places; Getting married and having children are a requirement if you want to progress down the track. Unlike in *CGoL*, everyone functionally travels down the same path. Even if you circle back to a familiar stretch of road, the only way fowrard is forward and all roads lead to the same destination. 
+
+Players can't reflect on the choice they made to get from a known Point A to known Point B because they do not choose where they go. Instead, movement through various life events on the board happens *to* players as a matter of chance, and decision-making is about reacting to those chance-based effects through the control they do have over various money mechanics (earning/borrowing/betting/stealing/spending). 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Example: All players are trying to accumulate money and win the game by having the most money at the end. Player 1 spins an 8, lands on the "Pay $5000 For Toupe" space, and must pay this amount to the bank. Player 2 spins a 7 and lands not far behind on the "Sell Cattle Ranch: Collect $150,000" space. Where each of them goes next is a matter of chance, not strategy, and so Player 1's next move is about maximizing their own gains and diminishing Player 2's. First, Player One gives Player 2 a Share the Wealth card that forces them to give up hald their earnings on the cattle ranch. Since Player 1 crossed the toll bridge first, Player 2 also pays them a fee. Players 1 and 2 reflect on how this exchange has affected their standing in the rat race, both in terms of their finances, and in terms of their physical position in relation to the Millionaire Acres. 
+
+In this case, the different chapters of a life story aren't being related back to social/ethical/philisophical ideas of what it means to be a good person; instead, every chapter affirms that success goes hand in hand with enough/the right kind of participation in the market: cutthroat competition! 
+
+To conclude: *CGoL* explores *how* people live good lives by asking players to make decisions about movement, emphasizing the different contours of each players' journey to their respective old ages. *GoL* de-emphasizes the differences between each players' journey, instead focusing on how they mitigate the effects of the same systemic forces in an effort to end up with the most resources. 
+
+If *CGoL* asks "How will you do well?" *GoL* asks "How well will you do?" 
+
+
+Coming Up... Movement Through Space Vs. Movement Through Time 
+
+Rough Notes:
+1. *CGoL* = traversing time/events; *GoL* - traversing space/getting to certain spaces *at* the right time
+2. The competition being based around the accumulation of financial capital recontextualizes one's spot in the safe zone as a matter of mutual exclusivity; everyone can have a happy old age, but not everyone can have more money than everyone else. 
+3. Refusing to move not being an option takes on a different meaning in each of these games. In *CGoL*, having to move forward seems more representative of the inevitable passage of time, and proximity of certain spaces to the winning space is connected to expected life stages rather than actual physical proximity; in *GoL*, constant forward movement is a way of saying the rat race toward an exclusive position of financial success is natural and unavoidable; there is no opting out of capitalism, and if you do, it's straight to the poor farm with you. You're blocking traffic. 
