@@ -111,7 +111,7 @@ Key source for learning about *The Checkered Game of Life*: [The Big Game Hunter
 
 I wanted to revisit what I originally wrote when comparing *The Checkered Game of Life* (1860) to *The Game of Life* (1960) (hereafter *CGoL* and *GoL*). After sitting with the materials for a bit, I think I have a better sense of the differences between these designs. I'm hoping that describing these differences will help me identify helpful points of intervention for tinkering. Starting with competition, each point in this list leads into the next, concluding with how each game goes about building a life story for players. 
 
-1.**Competition**  
+1. **Competition**  
 In both games, players compete to construct the a successful life narrative.  
 In both games, players attempt this through movement around the board.  
 In both games, refusing to move is not an option. Progress is the rule. 
@@ -147,14 +147,14 @@ In *CGoL*, players construct a successful life narrative by accumulating points.
 4. **Win States**   
 In *CGoL*, a player wins when they earn a place on the "Happy Old Age" square by accumulating 100 points and reach it before their opponents.   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In *GoL*, a player wins by having accumulated the most financial capital by the time everyone has reached the end of the track, either by outranking them in a final count or by winning an all-or-nothing bet. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In *GoL*, a player wins by having accumulated the most financial capital by the time everyone &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;has reached the end of the track, either by outranking them in a final count or by winning an &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;all-or-nothing bet. 
 
 5. **Life Narratives**   
 The story that *CGoL* tells is that you can earn a happy existence if you persevere through life's trials and tribulations, upholding what it means to have moral character in the eyes of God and society.   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The story of *GoL* is a retelling of the myth of meritocracy. You earn a shot at luxury, safety, and security by accumulating as much financial capital as possible through the same rat race everyone else is running. As long as you keep participating in the market as a good capitalist subject who is willing to act at the expense of others to win, you can not only succeed, but be the *most* successful.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The story of *GoL* is a retelling of the myth of meritocracy. You earn a shot at luxury, safety,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and security by accumulating as much financial capital as possible through the same rat race &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;everyone else is running. As long as you keep participating in the market as a good capitalist &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subject who is willing to act at the expense of others to win, you can not only succeed, but be &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the *most* successful.   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In both of these games, the storyline of one's life has an aspirational trajectory: You start from the bottom and earn your spot in The Good Place, whether that place is *CGoL*'s happy old age or *GoL*'s fancy retirement in a gated community reserved for the ultra-wealthy. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In both of these games, the storyline of one's life has an aspirational trajectory: You start &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from the bottom and earn your spot in The Good Place, whether that place is *CGoL*'s happy old &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;age or *GoL*'s fancy retirement in a gated community reserved for the ultra-wealthy. 
 
 \
 **Describing/Reflecting VS Prescribing/Reacting**   
@@ -187,9 +187,10 @@ In this case, the different chapters of a life story aren't being related back t
 To conclude: *CGoL* explores *how* people live good lives by asking players to make decisions about movement, emphasizing the different contours of each players' journey to their respective old ages. *GoL* de-emphasizes the differences between each players' journey, instead focusing on how they mitigate the effects of the same systemic forces in an effort to end up with the most resources.   
 
 
- <p align="center">If *CGoL* asks "How will you do well?" *GoL* asks "How well will you do?"</p>
+ <p align="center">If the first game asks "How will you do well?", the second asks "How well will you do?"</p>
 
-/   
+&nbsp;   
+&nbsp;   
 Coming Up This Week...   
 
 Movement Through Space Vs. Movement Through Time   
