@@ -124,7 +124,7 @@ In *CGoL*, players make active decisions about how they move around the board.
 - Players can move fewer spaces at a time with relative flexibility. 
 - Players can take different multidirectional and incremental paths in pursuit of the objective.   
 
-In *GoL*, players rarely make active decisions about movement along the track.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In *GoL*, players rarely make active decisions about movement along the track.
 - The distance of movement (1-10 spaces) is determined by chance (the spinner).
 - The direction of movement is mostly determined by the track. 
 - The only time players decide the direction is at a fork in the road, which is not a decision based on outcomes (a known space and its effect), but a decision based on risk (the range of spaces where they could land and their potential effects). 
@@ -138,7 +138,7 @@ In *CGoL*, players construct a successful life narrative by accumulating points.
 - Players must accumulate a minimum number of points (50) before they can pursue the win condition (landing on the "Happy Old Age" space). 
 - Players do not effect one anothers' pathways/ efforts to gather points.   
 
-In *GoL*, players construct a successful life narrative by accumulating the most money. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In *GoL*, players construct a successful life narrative by accumulating the most money. 
 - Players gain and spend money through a combination of chance-based mechanics (the spinner, landing on spaces) and choice-based mechanics (e.g., optional purchases, Share The Wealth cards). 
 - The in-game currency and the bank are representative of real-world money, markets, and financial institutions. All non-monetary assets (e.g., children) are all rendered back into capital at the end. 
 - Players must accumulate as much as they can to navigate the risk involved in pursuing the win condition (becoming a Tycoon or being the richest player in Millionaire Acres)
@@ -166,9 +166,9 @@ Of course, *CGoL* involves some level of prescriptive logic: The rules say playe
 
 The thing is, the cadence of movement itself leans into mode of play that invites description. Every time players spin the teetoum and make a decision about what direction to move in and how far, they are agentically constructing a path from a *known* Point A to a *known* Point B. Players have to hop around the board to progress, and the process of deciding how to hop around the board generates a micro, descriptive account of *what did happen* to accompany the game's macro prescriptive account of *what should happen.*   
 
-As a result, the game may invite players to regularly reflect on their choices both in terms of how they affect the chance of winning/losing, in terms of their real-world decisions, and in terms of how they feel about the overall life story that's emerging. 
+As a result, the game may invite players to regularly reflect on their choices both in terms of how they affect the chance of winning/losing, in terms of their real-world decisions, and in terms of how they feel about the overall life story that's emerging.    
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Example: All players are trying to accumulate points to reach the Happy Old Age space. Player 1 doesn't make it far from Infancy before landing on Ambition and being sent downward to Fame (a supposedly shameful place). Player 1 strategizes about their new position on the board and how they might use different rolls to leave Fame behind in pursuit of more points. On their next turn, Player 1 lands on Bravery and is sent to Honor. Player 1 reflects on how trying to become famous requires its own form of bravery (opposing the game's prescriptive logic)/a time when someone they knew brought dishonour on themselves by trying and failing to become famous (aligning with the game's prescriptive logic). Player 2 lands on the Matrimony space and Player 1 thinks about how their friends got married before they did, wondering when they will find someone. On their next turn, Player 1 decides whether trying to land on Matrimony is worth it on their way to Happy Old Age (it isn't worth any points, after all)...   
+Example: All players are trying to accumulate points to reach the Happy Old Age space. Player 1 doesn't make it far from Infancy before landing on Ambition and being sent downward to Fame (a supposedly shameful place). Player 1 strategizes about their new position on the board and how they might use different rolls to leave Fame behind in pursuit of more points. On their next turn, Player 1 lands on Bravery and is sent to Honor. Player 1 reflects on how trying to become famous requires its own form of bravery (opposing the game's prescriptive logic)/a time when someone they knew brought dishonour on themselves by trying and failing to become famous (aligning with the game's prescriptive logic). Player 2 lands on the Matrimony space and Player 1 thinks about how their friends got married before they did, wondering when they will find someone. On their next turn, Player 1 decides whether trying to land on Matrimony is worth it on their way to Happy Old Age (it isn't worth any points, after all)...   
 
 Each turn of spinning/deciding/moving involves active choices that invite players to reflect on the social, ethical, and philosophical minutae of the life story they are constructing in the game, and potentially their own life story outside the game. This process generates an descriptive account of who you are, whether you are a good person, what you offer to society, and ultimately what you've earned and deserve in the end. 
 
@@ -177,18 +177,21 @@ Each turn of spinning/deciding/moving involves active choices that invite player
 
 The thing is, these choices are 1. rare and 2. locked between fixed points: Forks in the road like the Business and College routes are rare and ultimately lead to the same places; Getting married and having children are a requirement if you want to progress down the track. Unlike in *CGoL*, everyone functionally travels down the same path. Even if you circle back to a familiar stretch of road, the only way fowrard is forward and all roads lead to the same destination.   
 
-Players can't reflect on the choice they made to get from a known Point A to known Point B because they do not choose where they go. Instead, movement through various life events on the board happens *to* players as a matter of chance, and decision-making is about reacting to those chance-based effects through the control they do have over various money mechanics (earning/borrowing/betting/stealing/spending). 
+Players can't reflect on the choice they made to get from a known Point A to known Point B because they do not choose where they go. Instead, movement through various life events on the board happens *to* players as a matter of chance, and decision-making is about reacting to those chance-based effects through the control they do have over various money mechanics (earning/borrowing/betting/stealing/spending).   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Example: All players are trying to accumulate money and win the game by having the most money at the end. Player 1 spins an 8, lands on the "Pay $5000 For Toupe" space, and must pay this amount to the bank. Player 2 spins a 7 and lands not far behind on the "Sell Cattle Ranch: Collect $150,000" space. Where each of them goes next is a matter of chance, not strategy, and so Player 1's next move is about maximizing their own gains and diminishing Player 2's. First, Player One gives Player 2 a Share the Wealth card that forces them to give up hald their earnings on the cattle ranch. Since Player 1 crossed the toll bridge first, Player 2 also pays them a fee. Players 1 and 2 reflect on how this exchange has affected their standing in the rat race, both in terms of their finances, and in terms of their physical position in relation to the Millionaire Acres.   
+Example: All players are trying to accumulate money and win the game by having the most money at the end. Player 1 spins an 8, lands on the "Pay $5000 For Toupe" space, and must pay this amount to the bank. Player 2 spins a 7 and lands not far behind on the "Sell Cattle Ranch: Collect $150,000" space. Where each of them goes next is a matter of chance, not strategy, and so Player 1's next move is about maximizing their own gains and diminishing Player 2's. First, Player One gives Player 2 a Share the Wealth card that forces them to give up hald their earnings on the cattle ranch. Since Player 1 crossed the toll bridge first, Player 2 also pays them a fee. Players 1 and 2 reflect on how this exchange has affected their standing in the rat race, both in terms of their finances, and in terms of their physical position in relation to the Millionaire Acres.   
 
 In this case, the different chapters of a life story aren't being related back to social/ethical/philisophical ideas of what it means to be a good person; instead, every chapter affirms that success goes hand in hand with enough/the right kind of participation in the market: cutthroat competition!   
 
 To conclude: *CGoL* explores *how* people live good lives by asking players to make decisions about movement, emphasizing the different contours of each players' journey to their respective old ages. *GoL* de-emphasizes the differences between each players' journey, instead focusing on how they mitigate the effects of the same systemic forces in an effort to end up with the most resources.   
 
-If *CGoL* asks "How will you do well?" *GoL* asks "How well will you do?"
 
+ <p style="text-align: center;">If *CGoL* asks "How will you do well?" *GoL* asks "How well will you do?"</p>
 
-Coming Up... Movement Through Space Vs. Movement Through Time 
+\
+Coming Up This Week...   
+
+Movement Through Space Vs. Movement Through Time   
 
 Rough Notes:
 1. *CGoL* = traversing time/events; *GoL* - traversing space/getting to certain spaces *at* the right time. I was wrong about the game being a "clear spatial metaphor where up = good and bad = down"
