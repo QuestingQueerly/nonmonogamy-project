@@ -111,7 +111,7 @@ Key source for learning about *The Checkered Game of Life*: [The Big Game Hunter
 
 I wanted to revisit what I originally wrote when comparing *The Checkered Game of Life* (1860) to *The Game of Life* (1960) (hereafter *CGoL* and *GoL*). After sitting with the materials for a bit, I think I have a better sense of the differences between these designs. I'm hoping that describing these differences will help me identify helpful points of intervention for tinkering. Starting with competition, each point in this list leads into the next, concluding with how each game goes about building a life story for players. 
 
-1. **Competition**  
+1.**Competition**  
 In both games, players compete to construct the a successful life narrative.  
 In both games, players attempt this through movement around the board.  
 In both games, refusing to move is not an option. Progress is the rule. 
@@ -186,9 +186,10 @@ In this case, the different chapters of a life story aren't being related back t
 
 To conclude: *CGoL* explores *how* people live good lives by asking players to make decisions about movement, emphasizing the different contours of each players' journey to their respective old ages. *GoL* de-emphasizes the differences between each players' journey, instead focusing on how they mitigate the effects of the same systemic forces in an effort to end up with the most resources.   
 
-\
+
  <p align="center">If *CGoL* asks "How will you do well?" *GoL* asks "How well will you do?"</p>
-\
+
+/   
 Coming Up This Week...   
 
 Movement Through Space Vs. Movement Through Time   
