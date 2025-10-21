@@ -105,7 +105,7 @@ Some things that are standing out to me in the moment:
 Key source for learning about *The Checkered Game of Life*: [The Big Game Hunter](https://thebiggamehunter.com/games-one-by-one/checkered-game-of-life/) 
 
 
-## Compare, Contrast, Concerns
+## Comparing and Contrasting Life Stories
 
 *Sunday, October 19th, 2025*
 
@@ -147,14 +147,14 @@ In *CGoL*, players construct a successful life narrative by accumulating points.
 4. **Win States**   
 In *CGoL*, a player wins when they earn a place on the "Happy Old Age" square by accumulating 100 points and reach it before their opponents.   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In *GoL*, a player wins by having accumulated the most financial capital by the time everyone &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;has reached the end of the track, either by outranking them in a final count or by winning an &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;all-or-nothing bet. 
+In *GoL*, a player wins by having accumulated the most financial capital by the time everyone has reached the end of the track, either by outranking them in a final count or by winning an all-or-nothing bet. 
 
 5. **Life Narratives**   
 The story that *CGoL* tells is that you can earn a happy existence if you persevere through life's trials and tribulations, upholding what it means to have moral character in the eyes of God and society.   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The story of *GoL* is a retelling of the myth of meritocracy. You earn a shot at luxury, safety,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and security by accumulating as much financial capital as possible through the same rat race &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;everyone else is running. As long as you keep participating in the market as a good capitalist &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subject who is willing to act at the expense of others to win, you can not only succeed, but be &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the *most* successful.   
+The story of *GoL* is a retelling of the myth of meritocracy. You earn a shot at luxury, safety, and security by accumulating as much financial capital as possible through the same rat race everyone else is running. As long as you keep participating in the market as a good capitalist subject who is willing to act at the expense of others to win, you can not only succeed, but be the *most* successful.   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In both of these games, the storyline of one's life has an aspirational trajectory: You start &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from the bottom and earn your spot in The Good Place, whether that place is *CGoL*'s happy old &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;age or *GoL*'s fancy retirement in a gated community reserved for the ultra-wealthy. 
+In both of these games, the storyline of one's life has an aspirational trajectory: You start from the bottom and earn your spot in The Good Place, whether that place is *CGoL*'s happy old age or *GoL*'s fancy retirement in a gated community reserved for the ultra-wealthy. 
 
 \
 **Describing/Reflecting VS Prescribing/Reacting**   
@@ -186,14 +186,101 @@ In this case, the different chapters of a life story aren't being related back t
 
 To conclude: *CGoL* explores *how* people live good lives by asking players to make decisions about movement, emphasizing the different contours of each players' journey to their respective old ages. *GoL* de-emphasizes the differences between each players' journey, instead focusing on how they mitigate the effects of the same systemic forces in an effort to end up with the most resources.   
 
-
- <p align="center">If the first game asks "How will you do well?", the second asks "How well will you do?"</p>
+&nbsp;
+&nbsp;   
+<p align="center">If the first game asks "How will you do well?", the second asks "How well will you do?"</p>
 
 &nbsp;   
 &nbsp;   
-Coming Up This Week...   
+## From Conflict to Competition   
 
-Movement Through Space Vs. Movement Through Time   
+*Tuesday, October 21st, 2025*   
+
+Working definition of competition: Beings, groups, or non-human forces working against each other to produce connected but opposing (or even incompatible) outcomes, sometimes as part of a game. 
+
+I wanted to get a more concrete sense of what makes something a competition rather than a conflict. I started by listing common forms of narrative conflict found in literature: Character vs. Self, Character vs. Character, Character vs. Society, Character vs. Nature, Character vs. Technology, Character vs. Supernatural, etc...   
+
+In a game, these are less examples of competition and more examples of just... struggling against something. Here are my thoughts on what they would need to be a competition proper:
+- The being/force/system being struggled against is affecting the game by making decisions in effort to reach an objective (it wins) that opposes the player's own objective (you win).
+- It feels easier to call this kind of struggle a competition if the pathways toward these opposing objectives run parallel in some way; this might be out of a desire for fairness related to an attachment to the idea of "competitive spirit", BUT
+- Competition is not always about fairness; This is an hypothetical ideal and not reality of competition  (See: economic competition, biological competition; what these all seem to have in common is that there is a process has some kind of mutually exclusive outcome)
+- The opposing objectives and the respective pathways required to reach them do not have to be fair, but they can be.
+- There does not have to be a reward for winning, but there can be.   
+
+<p align="center">Based on this, competition is: a game/process where oppositional forces influence play by making decisions in an effort to produce mutually exclusive outcomes, often to receive a reward.</p>
+
+So, one of factors distinguishing a struggle from a competition is the role of decision-making. 
+1. Decisions can be made by other players OR by a non-human entity that makes choices (i.e., AI)
+2. Player(s) vs Society/Nature/Technology/Supernatural are examples of struggle because these are forces that can be represented by rules, but can't make active decisions during the game that modulate play in service or this goal or that goal 
+3. Competing against these forces (as opposed to struggling against them) requires giving them a decision-making representative
+
+Making a multiplayer game is a simple way to give forces like Society/Nature/Technology/Supernatural a competitive presence in the game via a decision-making representative. In a multi-player game, the rules can assign a player or group of players make these choices. 
+
+A note on single-player competitions: Are they even possible? The player can't compete against themselves because there can be no mutually exclusive outcome: The player wins, or the player wins. What could a single-player game featuring competition look like?
+
+1) Competition could be a feature of the game's story rather than its rules (e.g., a role-playing game about a basketball game, about romantic competition/courtship).   
+This option feels uninteresting.
+2) The player could compete against a non-human, choice-making entity (i.e., an AI).   
+This option is workable.
+3) The player could be a judge, a prize, or the arbiter of the competition's rules rather than a competitor (e.g., by making the competitors NPCs, something dating simulation games kind of do already).   
+This option is workable and more interesting than option two.
+3) The player could compete as a representative for all sides with a truly a equal investment in all outcomes, effectively reintroducing a level of mutual exclusivity (e.g., Player can win as X OR win as Y OR win as X+Y while winning as Z is off the table).   
+This option feels an overly complicated way of exploring that classic "Can you really play chess against yourself?" question.
+
+&nbsp;
+&nbsp;
+The Game Plan:
+- The simplest path forward for now and make a multiplayer game.  
+- Use the experience of making a multi-player game to reflect on my dissertation's focus on single-player experiences
+- If making a single-player game turns out to be more generative down the line, I can experiment with the player not being a competitor, but a prize/judge/arbiter of the competition's rules for NPCs.   
+
+
+## It's Biology, Baby
+
+*Tuesday, October 21st, 2025* 
+
+In my last journal entry, I mentioned that while fairness and equality are often expected as part of the spirit of competition, they're not required.   
+
+The two examples I gave were economic competition and biological competition. *CGoL* and *GoL* are about moral/micro-economic competition, butlet's take a look at different kinds of biological competition and see if they connect with my analyses of these games so far. 
+
+![Here's an image from a biology course at Gettysburg College](<Images - Ideation/Mechanisms of competition in biology - Ecology for All - Gettysburg College.png>)
+
+Sp = Species
+P = Predator
+R = Resource
+*Exploitation efficiency: The efficiency of a transfer of energy upward; How well something consumes its something else*
+
+**1. Interference or Contest Competition (Direct)**
+- An individual or population behaves in a way that directly reduces another individual or population's exploitation efficiency
+- Game equivalent: Player 1 takes action that directly reduces Player 2's efficiently exploitation of a resource
+- In *GoL*, Player 1 takes Revenge! on/gives a Share the Wealth card to Player 2; Player 2's efficient exploitation of financial assets has been directly reduced. 
+- Note: No such interference competiton happens in *CGoL*. 
+
+**2. Exploitation or Scramble Competition (Indirect)**
+- Individuals or populations use a shared resource in a way that results in mutual depression; indirect competition via a shared resource
+- Game equivalent: Player 1 uses a shared but limited resource, indirectly impacting Player 2 when they use that same resource and vice versa
+- Note: No such scramble competition in either *CGoL* or *GoL*. In *GoL*, money is a shared resource via the bank but there is no real scarcity; players compete to see who can gain the most and losses are caused either by luck/chance, or by other players.
+
+**3. Apparent Competition**
+- Two unrelated prey species that are in indirect competition via a shared predator.
+- Player 1 and Player 2 compete indirectly to survive through third-party actions (e.g., a third player, the dungeon master, etc.)
+- In *GoL*, the only identifiable mutually shared predator for all players is luck/chance. The bank is more of a structural/institutional support for wealth accumulation than a predador in this context. 
+- Note: If there is apparent competition in either of these games, luck is the shared predator driving competition; players win by successfully mitigating the risks of the game's chance based mechanics. This also means that apparent competition is mostly a feature of *GoL*, since *CGoL*'s movement involves less chance and more decision-making. 
+
+**Food for Thought Going Forward:**   
+*GoL* primarily emphasizes interference combination (competing players directly impact each other), with a touch of apparent competition (competing players are affected by a mutual predator). Neither games uses scramble competition, where competing players are affected by the availability of a mutually shared resource. What might a version of the game that uses scramble competition look like?
+- Players would start with a shared and limited resource.
+- The availability/scarcity of that resource affects all competitors. 
+- Changes in the availability/scarcity of that resource would likely need to be left up to chance: player actions impacting the resource directly would be interferene competition, and the state of the resource being determined by the bank (a predator) would just be apparent competition. 
+- The state of this pool of resources could change regularly (e.g., at the end of every turn), but in a way that is not directly connected to the player's actions. 
+- Example: Player 1 moves 5 spaces and spends X dollars on Y item; At the end of Player 1's turn, the condition of the pool of shared resourced is altered (e.g., a card is drawn - there is a recession and money is removed from the pot); Player 2 takes their turn under this new set of conditions...
+
+
+&nbsp;
+&nbsp;
+## Coming Up...   
+
+Movement Through Space Vs. Movement Through Time?  
 
 Rough Notes:
 1. *CGoL* = traversing time/events; *GoL* - traversing space/getting to certain spaces *at* the right time. I was wrong about the game being a "clear spatial metaphor where up = good and bad = down"
