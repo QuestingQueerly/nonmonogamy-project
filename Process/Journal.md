@@ -253,7 +253,7 @@ The two examples I gave were economic competition and biological competition. *C
 
 Here's a screenshort of a graphic developed by Natasha Gownaris of Gettysburg College's environmental studies department:
 
-![Insert image description](<Images - Ideation/Mechanisms of competition in biology - Ecology for All - Gettysburg College.png>)
+![Biology competition mechamisms - Gettysburg College](<Images - Ideation/Mechanisms of competition in biology - Ecology for All - Gettysburg College.png>)
 
 You can check out the details of the full lesson [here](https://bio.libretexts.org/Courses/Gettysburg_College/01%3A_Ecology_for_All/15%3A_Competition/15.01%3A_Introduction_and_Types_of_Competition).
 
@@ -292,11 +292,11 @@ R = Resource
 &nbsp;
 ## Spacing Out
 
-I took some time this week to take stock of the variety of different kinds of spaces in *GoL*, in part to help me identify all the spaces that have something to do with intimacies (in this case, spousal and family relationships). 
+I took some time this week to take stock of the variety of (different kinds of spaces in *GoL*)[https://github.com/QuestingQueerly/nonmonogamy-project/blob/main/Process/Game%20Breakdowns/GoL_SpacesSpacesSpaces.pdf], in part to help me identify all the spaces that have something to do with intimacies (in this case, spousal and family relationships). 
 
  Note: When I use the term "initmacies," I'm taking cues from Nathan Rambukkana's research on non-monogamies and using Lauren Berlant's definition that is inclusive of sex, romance, friendship, kinship, and other forms of connection that "*impact* on people and on which they depend for living" (1997, p. 284, as cited in Rambukkana, 2015, p. 27). 
 
-Here's a breakdown of spaces that refer to the intimate (also avaialble on the Miro board with some thoughts on the distribution of different kinds of Peg People)[https://miro.com/app/board/uXjVKRo1kSM=/?share_link_id=854742179856]:
+Here's a breakdown of spaces that refer to the intimate:
 
 1. Financial penalties (general)   
 - “HELP POOR RELATIONS! PAY $1000”
@@ -348,6 +348,27 @@ Rambukkana, N. (2015b). *Fraught intimacies: Non/monogamy in the public sphere.*
 
 &nbsp;
 &nbsp;
-## Coming Up...   
+## Prototype One: *Matri-Money*  
 
-PROTOTYPE ONE
+I spent a good deal of this week learning how to make a simple game board in Gadot. Progress is slow. I'm not an experienced programmer - so much of my creative practice has been about seeing what can be done with basic and approachable tools - and even this engine reccommends taking some computer science courses. May my audacity carry me forward.
+
+While getting familiar with Gadot basics (and continuing to consider paper prototyping options - see my questions at the end of this journal entry) I decided to start prototyping using software I already feel comfortable with to get some momentum. Using Twine, I made a game board with a virtual spinner numbered 1-10. Key variables being tracked are spouses and cash. 
+
+The idea: Leaning into a contradition between *GoL*'s economic and social logics, this game has players compete to marry as many people as they can on their morning commute. The goal is to accumulating spouses and, by extension, $children$. The first one to the finish line/the office gets a "baby bonus." The player with the most children, and therefore the most money, wins. 
+
+I started with a simple mock-up board that is about a quarter of *GoL*'s size (40 spaces not including the starting and finishing spaces). I athen used Twine's Harlowe language to create a series of virtual spinners. I wanted a singular spinner but the variable tracking got cumbersome and I really wanted to ride this wave.
+
+Here's a screen shot of the full Twine project: 
+
+![Twine screenshot - Matri-Money_V1](<>)
+
+Twisty, twisty little passages. 
+
+Considerations for Future Changes:
+- Something about the fact that players can't see the full board (only the spaces they land on via text passage) changes the feel of competition. I think that translating this into a version where people play Battleship style (unable to see where their opponent is or their progress) could introduce an element of communication/trust/boundary work, (potentially adding an injection of relational significant otherness to go with the game's "bad polyamory.")
+- In this version, you pass by marriage spaces you don't land on. What would change in a version where you have to stop on all marriage spaces you pass?
+- For playtesting: 10 numbers on the spinner might be too much for a board game this small. Things may move too fast, but who knows how speed will factor into this experience. See how it goes and consider reducing it to 5. 
+
+&nbsp;
+&nbsp;
+## Coming Up...  
