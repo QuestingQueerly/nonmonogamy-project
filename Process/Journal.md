@@ -86,6 +86,8 @@ For reference, here is a link to [some gameplay footage from *Spiritfarer*](http
 
 **Techniques:** satire, parody, familiarity (stories, formats), defamiliarization, magical realism, multiperspectivity, the uncanny
 
+&nbsp;
+&nbsp;
 ## Refining Early Concepts (Continued...)  
 
 *Monday, October 13th, 2025*  
@@ -147,12 +149,12 @@ In *CGoL*, players construct a successful life narrative by accumulating points.
 - Players must accumulate as much as they can to navigate the risk involved in pursuing the win condition (becoming a Tycoon or being the richest player in Millionaire Acres)
 - Players regularly effect one another's efforts to accumulate by capital, both by chance (e.g., required monetary gifts) and by choice (e.g., taking Revenge!, Share the Wealth cards)
 
-4. **Win States**
+4. **Win States**   
 In *CGoL*, a player wins when they earn a place on the "Happy Old Age" square by accumulating 100 points and reach it before their opponents.   
 
 In *GoL*, a player wins by having accumulated the most financial capital by the time everyone has reached the end of the track, either by outranking them in a final count or by winning an all-or-nothing bet. 
 
-5. **Life Narratives**
+5. **Life Narratives**   
 The story that *CGoL* tells is that you can earn a happy existence if you persevere through life's trials and tribulations, upholding what it means to have moral character in the eyes of God and society.   
 
 The story of *GoL* is a retelling of the myth of meritocracy. You earn a shot at luxury, safety, and security by accumulating as much financial capital as possible through the same rat race everyone else is running. As long as you keep participating in the market as a good capitalist subject who is willing to act at the expense of others to win, you can not only succeed, but be the *most* successful.   
@@ -187,7 +189,9 @@ Example: *All players are trying to accumulate money and win the game by having 
 
 In this case, the different chapters of a life story aren't being related back to social/ethical/philisophical ideas of what it means to be a good person; instead, every chapter affirms that success goes hand in hand with enough/the right kind of participation in the market: cutthroat competition!   
 
-To conclude: *CGoL* explores *how* people live good lives by asking players to make decisions about movement, emphasizing the different contours of each players' journey to their respective old ages. *GoL* de-emphasizes the differences between each players' journey, instead focusing on how they mitigate the effects of the same systemic forces in an effort to end up with the most resources.   
+\
+**Concluding Thoughts**   
+*CGoL* explores *how* people live good lives by asking players to make decisions about movement, emphasizing the different contours of each players' journey to their respective old ages. *GoL* de-emphasizes the differences between each players' journey, instead focusing on how they mitigate the effects of the same systemic forces in an effort to end up with the most resources.   
 
 &nbsp;
 &nbsp;   
@@ -199,7 +203,8 @@ To conclude: *CGoL* explores *how* people live good lives by asking players to m
 
 *Tuesday, October 21st, 2025*   
 
-Working definition of competition: Beings, groups, or non-human forces working against each other to produce connected but opposing (or even incompatible) outcomes, sometimes as part of a game. 
+**Working definition of competition:**   
+Beings, groups, or non-human forces working against each other to produce connected but opposing (or even incompatible) outcomes, sometimes as part of a game. 
 
 I wanted to get a more concrete sense of what makes something a competition rather than a conflict. I started by listing common forms of narrative conflict found in literature: Character vs. Self, Character vs. Character, Character vs. Society, Character vs. Nature, Character vs. Technology, Character vs. Supernatural, etc...   
 
@@ -250,7 +255,7 @@ Here's a screenshort of a graphic developed by Natasha Gownaris of Gettysburg Co
 
 ![Insert image description](<Images - Ideation/Mechanisms of competition in biology - Ecology for All - Gettysburg College.png>)
 
-You can check out the details of the full lesson [here](https://bio.libretexts.org/Courses/Gettysburg_College/01%3A_Ecology_for_All/15%3A_Competition/15.01%3A_Introduction_and_Types_of_Competition) 
+You can check out the details of the full lesson [here](https://bio.libretexts.org/Courses/Gettysburg_College/01%3A_Ecology_for_All/15%3A_Competition/15.01%3A_Introduction_and_Types_of_Competition).
 
 Sp = Species
 P = Predator
@@ -271,11 +276,12 @@ R = Resource
 **3. Apparent Competition**
 - Two unrelated prey species that are in indirect competition via a shared predator.
 - Player 1 and Player 2 compete indirectly to survive through third-party actions (e.g., a third player, the dungeon master, etc.)
-- In *GoL*, the only identifiable mutually shared predator for all players is luck/chance. The bank is more of a structural/institutional support for wealth accumulation than a predador in this context. 
+- In *GoL*, the only identifiable mutually shared predator for all players is luck/chance. The bank is more of a structural/institutional support for wealth accumulation than a predator in this context. 
 - Note: If there is apparent competition in either of these games, luck is the shared predator driving competition; Players win by successfully mitigating the risks of the game's chance based mechanics. This also means that apparent competition is mostly a feature of *GoL*, since *CGoL*'s movement involves less chance and more decision-making. 
 
+\
 **Food for Thought Going Forward:**   
-*GoL* primarily emphasizes interference combination (competing players directly impact each other), with a touch of apparent competition (competing players are affected by a mutual predator). Neither games uses scramble competition, where competing players are affected by the availability of a mutually shared resource. What might a version of the game that uses scramble competition look like?
+*GoL* primarily emphasizes interference competition (competing players directly impact each other), with a touch of apparent competition (competing players are affected by a mutual predator). Neither games uses scramble competition, where competing players are affected by the availability of a mutually shared resource. What might a version of the game that uses scramble competition look like?
 - Players would start with a shared and limited resource
 - The availability/scarcity of that resource affects all competitors
 - Changes in the availability/scarcity of that resource would likely need to be left up to chance: player actions impacting the resource directly would be interferene competition, and the state of the resource being determined by the bank (a predator) would just be apparent competition
@@ -284,11 +290,64 @@ R = Resource
 
 &nbsp;
 &nbsp;
+## Spacing Out
+
+I took some time this week to take stock of the variety of different kinds of spaces in *GoL*, in part to help me identify all the spaces that have something to do with intimacies (in this case, spousal and family relationships). 
+
+ Note: When I use the term "initmacies," I'm taking cues from Nathan Rambukkana's research on non-monogamies and using Lauren Berlant's definition that is inclusive of sex, romance, friendship, kinship, and other forms of connection that "*impact* on people and on which they depend for living" (1997, p. 284, as cited in Rambukkana, 2015, p. 27). 
+
+Here's a breakdown of spaces that refer to the intimate (also avaialble on the Miro board with some thoughts on the distribution of different kinds of Peg People)[https://miro.com/app/board/uXjVKRo1kSM=/?share_link_id=854742179856]:
+
+1. Financial penalties (general)   
+- “HELP POOR RELATIONS! PAY $1000”
+- “FATHER-IN-LAW NEEDS MONEY! PAY $10,000”
+- “ECCENTRIC AUNT LEAVES $500 CATS. PAY $10,000 TO GIVE THEM AWAY”<sup>1</sup>
+- “UNCLE LEFT YOU SKUNK FARM! PAY $8,000 TO GET RID OF IT!”
+- “UNCLE IN JAIL. PAY $500 BAIL”   
+
+2. Financial rewards (general)   
+- “ADD BABY SON! COLLECT PRESENTS” X2
+- ADD TWIN SONS! COLLECT PRESENTS”
+- “ADD A BABY DAUGHTER! COLLECT PRESENTS” X4
+- “ADOPT A BOY AND A GIRL! COLLECT PRESENTS.”
+
+3. Purchases (no in-game item)
+- "MEET FUTURE SPOUSE! PAY $500 FOR DIAMOND RING”<sup>2</sup>
+
+4. Required spaces (required effect)
+- “IF CHILDLESS GIVE $50,000 TO ORPHANAGE!”<sup>3</sup>
+
+
+<sup>1</sup> Subtext: Don’t end up alone, childless, and a burden on your relatives like this "cat lady" stereotype. 
+<sup>2</sup> This space is a way of maximizing earnings early by taking a particular life path. Going into business = not distracted by school; Business is aligned with marriage and procreation while school is aligned with childless philosophizing.
+<sup>3</sup> Not having children is financially penalized (even though in this game, not having them would be entirely by luck!) Social subtext: If you don’t procreate, you had better repay your debt to society by helping out non-biological children. The game punishes you for failing to do your duty. 
+<sup>6</sup> Getting married is double financially invcentivized: there is an initial monetary gift at the expense of your competitors, and it opens the door to having children, who are also worth money at the end of the game.
+
+**Contradictory Logics in *GoL*: Capitalism Versus Hetero-Monogamy**   
+In *CGoL*, the Matrimony space has physical proximity to end point (the Happy Old Age space) but there are no points awarded for landing on it. *GoL*, on the other hand, uses marriage as a step toward the accumulation of wealth. 
+
+Marriage:
+- Is required. Players must stop on this space to progress. 
+- Is financially incentivized. On their wedding day, players recieve a monetary gift at their competitor's expense. 
+- Is an investment. Marriage allows you to have children and children are worth money. 
+- Costs nothing (or very little). The only way your spouse ever has a financial cost is if you spin a 3 on your first turn.
+- Is monogamous. There is a rule in the game reflecting real-world laws banning bigamy. 
+
+Capitalist/Mechanical Logic says: Make as much money as possible!
+Rationale: Get married because marriage = kids = $
+
+BUT
+
+Hetero-Monogamous/Social Logic: Be monogamous!
+Rationale: Only get married once because non-monogamy is illegal and morally wrong.
+
+There's a contradiction here. Based on the game's own logics, one strategy to be a good worker-subject would be to have as many partners as possible and, by extension, as many children as possible! They're worth $20,000 each during the end-stage of the game and cost nothing, so they really do seem to offer quite the uhm... bang for your buck. This game's social logic tells us that being married to multiple spouses is bad and wrong - what happens if we tinker with that? 
+
+References:
+Rambukkana, N. (2015b). *Fraught intimacies: Non/monogamy in the public sphere.* UBC Press.
+
+&nbsp;
+&nbsp;
 ## Coming Up...   
 
-Movement Through Space Vs. Movement Through Time?  
-
-Rough Notes:
-1. *CGoL* = traversing time/events; *GoL* - traversing space/getting to certain spaces *at* the right time. I was wrong about the game being a "clear spatial metaphor where up = good and bad = down"
-2. The competition being based around the accumulation of financial capital recontextualizes one's spot in the safe zone as a matter of mutual exclusivity; everyone can have a happy old age, but not everyone can have more money than everyone else. 
-3. Refusing to move not being an option takes on a different meaning in each of these games. In *CGoL*, having to move forward seems more representative of the inevitable passage of time, and proximity of certain spaces to the winning space is connected to expected life stages rather than actual physical proximity; in *GoL*, constant forward movement is a way of saying the rat race toward an exclusive position of financial success is natural and unavoidable; there is no opting out of capitalism, and if you do, it's straight to the poor farm with you. You're blocking traffic.
+PROTOTYPE ONE
