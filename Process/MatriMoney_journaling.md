@@ -64,7 +64,7 @@ are the most efficient way to accumulate enough wealth to win.
 
 Here are two screenshots showing a visualization of the differences between the first and second pass on Twine: 
 
-[Twine screenshot - MatriMoney_V1a_screenshot1](<Process/Images/Images - Prototpye Screenshots/MatriMoney_V1a_screenshot1.png>)   
+![Twine screenshot - MatriMoney_V1a_screenshot1](<Process/Images/Images - Prototpye Screenshots/MatriMoney_V1a_screenshot1.png>)   
 
-[Twine screenshot - MatriMoney_V1b_screenshot1](<Process/Images/Images - Prototpye Screenshots/MatriMoney_V1b_screenshot1.png>)
+![Twine screenshot - MatriMoney_V1b_screenshot1](<Process/Images/Images - Prototpye Screenshots/MatriMoney_V1b_screenshot1.png>)
 

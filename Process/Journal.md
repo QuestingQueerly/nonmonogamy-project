@@ -251,7 +251,7 @@ In my last journal entry, I mentioned that while fairness and equality are often
 
 The two examples I gave were economic competition and biological competition. *CGoL* and *GoL* are about moral/micro-economic competition, but let's take a look at different kinds of biological competition and see if they connect with my analyses of these games so far. 
 
-Here's a screenshort of a graphic developed by Natasha Gownaris of Gettysburg College's environmental studies department:
+Here's a screenshot of a graphic developed by Natasha Gownaris of Gettysburg College's environmental studies department:
 
 ![Biology competition mechamisms - Gettysburg College](<Images - Ideation/Mechanisms of competition in biology - Ecology for All - Gettysburg College.png>)
 
@@ -294,7 +294,7 @@ R = Resource
 
 *October 25, 2025*
 
-I took some time this week to take stock of the variety of (different kinds of spaces in *GoL*)[https://github.com/QuestingQueerly/nonmonogamy-project/blob/main/Process/Game%20Breakdowns/GoL_SpacesSpacesSpaces.pdf], in part to help me identify all the spaces that have something to do with intimacies (in this case, spousal and family relationships). 
+I took some time this week to take stock of the variety of (different kinds of spaces in *GoL*)[Process/Game Breakdowns/GoL_SpacesSpacesSpaces.pdf], in part to help me identify all the spaces that have something to do with intimacies (in this case, spousal and family relationships). 
 
  Note: When I use the term "initmacies," I'm taking cues from Nathan Rambukkana's research on non-monogamies and using Lauren Berlant's definition that is inclusive of sex, romance, friendship, kinship, and other forms of connection that "*impact* on people and on which they depend for living" (1997, p. 284, as cited in Rambukkana, 2015, p. 27). 
 
