@@ -292,6 +292,8 @@ R = Resource
 &nbsp;
 ## Spacing Out
 
+*October 25, 2025*
+
 I took some time this week to take stock of the variety of (different kinds of spaces in *GoL*)[https://github.com/QuestingQueerly/nonmonogamy-project/blob/main/Process/Game%20Breakdowns/GoL_SpacesSpacesSpaces.pdf], in part to help me identify all the spaces that have something to do with intimacies (in this case, spousal and family relationships). 
 
  Note: When I use the term "initmacies," I'm taking cues from Nathan Rambukkana's research on non-monogamies and using Lauren Berlant's definition that is inclusive of sex, romance, friendship, kinship, and other forms of connection that "*impact* on people and on which they depend for living" (1997, p. 284, as cited in Rambukkana, 2015, p. 27). 
@@ -350,6 +352,8 @@ Rambukkana, N. (2015b). *Fraught intimacies: Non/monogamy in the public sphere.*
 &nbsp;
 ## Prototype One: *Matri-Money*  
 
+*October 26, 2025*
+
 I spent a good deal of this week learning how to make a simple game board in Gadot. Progress is slow. I'm not an experienced programmer - so much of my creative practice has been about seeing what can be done with basic and approachable tools - and even this engine reccommends taking some computer science courses. May my audacity carry me forward.
 
 While getting familiar with Gadot basics (and continuing to consider paper prototyping options - see my questions at the end of this journal entry) I decided to start prototyping using software I already feel comfortable with to get some momentum. Using Twine, I made a game board with a virtual spinner numbered 1-10. Key variables being tracked are spouses and cash. 
@@ -360,7 +364,7 @@ I started with a simple mock-up board that is about a quarter of *GoL*'s size (4
 
 Here's a screen shot of the full Twine project: 
 
-![Twine screenshot - Matri-Money_V1](<>)
+![Twine screenshot - Matri-Money_V1](<Process/Images/Images - Prototpye Screenshots/MatriMoney_V1_screenshot.png>)
 
 Twisty, twisty little passages. 
 
@@ -371,4 +375,10 @@ Considerations for Future Changes:
 
 &nbsp;
 &nbsp;
-## Coming Up...  
+## Layers of Journals...
+
+*October 28, 2025*
+
+I decided to create a secondary journal for when I'm actively working on the project. I think this is helpful for not feeling like I need to edit my thoughts as much. I felt a bit like I needed to curate what makes it into this larger project journal more selectively. This way, I have a space to jot down more granular thoughts and ideas down as they come up. 
+
+The categories/headings are intended to make it easier to parse through my thinking at the end of this project: I have sections for what I want to do, what I did, what I plan to do in the next session, ideas down the line, and then reflections on the whole enchilada.
