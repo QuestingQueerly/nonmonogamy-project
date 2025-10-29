@@ -63,3 +63,8 @@ are the most efficient way to accumulate enough wealth to win.
 - The decision to included a Baby Bonus for having a partner who is already pregnant kind of touches on the relationship between compulsory hetero-monogamy and capitalism: Here, the idea that the child is not a part of the family line/the line of property inheritance is not a threat, it's a good thing! 
 
 Here are two screenshots showing a visualization of the differences between the first and second pass on Twine: 
+
+![Twine screenshot - MatriMoney_V1a_screenshot1](<Process/Images/Images - Prototpye Screenshots/MatriMoney_V1a_screenshot1.png>)   
+
+![Twine screenshot - MatriMoney_V1b_screenshot1](<Process/Images/Images - Prototpye Screenshots/MatriMoney_V1b_screenshot1.png>)
+
