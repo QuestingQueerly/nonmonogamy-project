@@ -62,6 +62,4 @@ are the most efficient way to accumulate enough wealth to win.
 - Re: lowering the value of each kid from $5000.00 to $50.00 - was there something funny about having the children be worth a ludicrous amount? Do I want this back? When the value is that high, the spaces where players win/lose money basically turn into flavourtext. I could at least make it so that these little story beats change something at the end of the game...
 - The decision to included a Baby Bonus for having a partner who is already pregnant kind of touches on the relationship between compulsory hetero-monogamy and capitalism: Here, the idea that the child is not a part of the family line/the line of property inheritance is not a threat, it's a good thing! 
 
-&nbsp;
-&nbsp;
-<p align="center">*October 28, 2025*</p>
+Here are two screenshots showing a visualization of the differences between the first and second pass on Twine: 
