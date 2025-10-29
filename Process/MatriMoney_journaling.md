@@ -1,7 +1,5 @@
 This journal is for jotting down my thinking and decision making when I am actively working on *Matri-Money*.
 
-&nbsp;
-&nbsp;
 <p align="center">*October 27, 2025*</p>
 
 **Intention**
@@ -27,7 +25,7 @@ What I've made here can only be played by one person per device, so multiplayer 
 &nbsp;
 <p align="center">*October 28, 2025*</p>
 
-**Intention**   
+**Intention**
 Today, I want to finish adding spinners to the remaining spaces and add the remaining Spouse Spaces to the board. 
 
 **Log**
@@ -62,6 +60,8 @@ are the most efficient way to accumulate enough wealth to win.
 - Feeling: Intimidated by Godot, excited that the core spinner/movement mechanic is working
 - The fact that I am not an experience programmer meant that I didn't know how to store variables in a way that let me use a single spinner and ended up creating multiple spinners that each connect to all possible rolls. In combination with the board's shape, this created a really interesting flow or arrows on the Twine interface (see the folder labeled "Images - Prototype Screenshots"). 
 - Re: lowering the value of each kid from $5000.00 to $50.00 - was there something funny about having the children be worth a ludicrous amount? Do I want this back? When the value is that high, the spaces where players win/lose money basically turn into flavourtext. I could at least make it so that these little story beats change something at the end of the game...
-- The decision to included a Baby Bonus for having a partner who is already pregnant kind of touches on the relationship between compulsory hetero-monogamy and capitalism: Here, the idea that the child is not a part of the family line/the line of property inheritance is not a threat, it's a good thing!
+- The decision to included a Baby Bonus for having a partner who is already pregnant kind of touches on the relationship between compulsory hetero-monogamy and capitalism: Here, the idea that the child is not a part of the family line/the line of property inheritance is not a threat, it's a good thing! 
 
-You can see there difference between the first and second pass visualized on Twine:
+&nbsp;
+&nbsp;
+<p align="center">*October 28, 2025*</p>
