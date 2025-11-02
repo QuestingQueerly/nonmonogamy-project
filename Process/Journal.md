@@ -290,11 +290,13 @@ R = Resource
 
 &nbsp;
 &nbsp;
+# Building Blocks
+
 ## Spacing Out
 
 *October 25, 2025*
 
-I took some time this week to take stock of the variety of (different kinds of spaces in *GoL*)[Process/Game Breakdowns/GoL_SpacesSpacesSpaces.pdf], in part to help me identify all the spaces that have something to do with intimacies (in this case, spousal and family relationships). 
+I took some time this week to take stock of the variety of (different kinds of spaces in *GoL*), in part to help me identify all the spaces that have something to do with intimacies (in this case, spousal and family relationships). 
 
  Note: When I use the term "initmacies," I'm taking cues from Nathan Rambukkana's research on non-monogamies and using Lauren Berlant's definition that is inclusive of sex, romance, friendship, kinship, and other forms of connection that "*impact* on people and on which they depend for living" (1997, p. 284, as cited in Rambukkana, 2015, p. 27). 
 
@@ -362,7 +364,7 @@ The idea: Leaning into a contradition between *GoL*'s economic and social logics
 
 I started with a simple mock-up board that is about a quarter of *GoL*'s size (40 spaces not including the starting and finishing spaces). I athen used Twine's Harlowe language to create a series of virtual spinners. I wanted a singular spinner but the variable tracking got cumbersome and I really wanted to ride this wave.
 
-Here's a screen shot of the full Twine project: 
+Here's a screen shot of the full Twine project so far: 
 
 ![Twine screenshot - Matri-Money_V1](<Process/Images/Images - Prototpye Screenshots/MatriMoney_V1_screenshot.png>)
 
@@ -382,3 +384,34 @@ Considerations for Future Changes:
 I decided to create a secondary journal for when I'm actively working on the project. I think this is helpful for not feeling like I need to edit my thoughts as much. I felt a bit like I needed to curate what makes it into this larger project journal more selectively. This way, I have a space to jot down more granular thoughts and ideas down as they come up. 
 
 The categories/headings are intended to make it easier to parse through my thinking at the end of this project: I have sections for what I want to do, what I did, what I plan to do in the next session, ideas down the line, and then reflections on the whole enchilada.
+
+&nbsp;
+&nbsp;
+## Thoughts on Using Twine
+
+*October 29, 2025*
+
+During today's analysis meeting for the Materializing Design group, the discussion briefly pivoted into the affordances and limitations of game-making tools (specifically software, engines) that keep code hidden in a user-friendly game-making interface. This includes tools like GB Studio, RPG Maker, etc...
+
+This got me thinking about what it means that I chose to start this process using Twine. 
+
+**Limitations**
+1. Observation: Sara Ahmed wrote that "the more a path is followed, the more a path is followed" (CITATION). Twine was the tool I used to make my fisrt ever game and I've been returning to it on-and-off in some capacity for years. Sometimes it does feel like the more I choose to use it, the more I will continue to choose to use it and, in doing so, the more I may actually be closing off opportunities to learn new tools and approaches. This is why I've been trying to teach myself to use Godot at the same time. 
+2. Practice: If I'm going to continue making games as someone who is not a professional programmer and relying on these tools that "hide" code, I very much need to make sure I am using a variety and actively thinking about how each shapes my approach, over time and in relation to one another. 
+
+**Affordances**
+- Using a familiar tool meant I could make something *quickly.* I had an idea and was able to create a functional core game-loop over the course of a few days. 
+- Making a "board game" using a tool that is largely designed for creating hypertext fiction led to some interesting new possibilities. I'm specifically thinking about how playing this game requires each person to open up the same digital board on their own device and communicate verbally to take turns. What if part of the game required players to share specific information and gave them the option of misrepresenting their situation? (E.g., "No, I'm not married to Person X")
+
+&nbsp;
+&nbsp;
+## An Unplanned Playtest
+
+*November 1st, 2025*
+
+I swung by the lab and played a quick round of *Matri-Money* (V1c) with a couple of friends and colleagues. 
+
+A few observations from this unexpected playtest: 
+- The people who volunteered to play the game chose to play as a team of two. When they got married, they referred to the spouse as "our wife"
+- The players started narrating our life stories as we passed over specific spaces. For example, when I passed over a space telling me I needed to buy a wedding present for a colleague, one of them said that it must have been for their recent wedding. 
+- There's a bug affecting at least one of the annulment spaces 
