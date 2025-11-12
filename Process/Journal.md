@@ -415,3 +415,35 @@ A few observations from this unexpected playtest:
 - The people who volunteered to play the game chose to play as a team of two. When they got married, they referred to the spouse as "our wife"
 - The players started narrating our life stories as we passed over specific spaces. For example, when I passed over a space telling me I needed to buy a wedding present for a colleague, one of them said that it must have been for their recent wedding. 
 - There's a bug affecting at least one of the annulment spaces 
+
+&nbsp;
+&nbsp;
+## An Unplanned Playtest
+
+*November 11th-12th, 2025*
+
+Journal, it has been too long! 
+
+I've been away from *Matri-Money* for longer than I'd like. Something, something, unexpected business. I also got on a flight to British Columbia. I'm writing this from up North in Prince George. It's a small city. Public transit can get you where you need to go, but it can take a while. It's definitely a place marked by car culture. Many, many vehicles making the world go round. White pick-up trucks are very popular. 
+
+In some ways, Prince George feels like a fitting location for putting the finishing touches on this game.
+
+I wonder what Matri-Money look like if you could use public transit... Adding this to the list of variations.
+
+I'm also adding the idea of "mergers" - see the game-specific journal entry on this date for more detail. 
+
+
+--
+
+I've clicked through the current build a few times and it's clear that a 10-space spinner is far too much movement at once for what is essentially a miniature board, at least compared to the original board for *GoL*. I managed to reach the end of the game with no spouses in just a few turns. Getting to the end without any spouses is fine, but that is a quick commute! I want it to feel more like a journey and less like your life flashing before your eyes. I've reduced the maximum number on the spinners to 5 (and am going to add some spaces that send players backwards).
+
+When I went to go make this change, I thought to myself "I'm going to need to edit every single spinner and delete specific chunks of code from 40+ Twine passages." Then I realized - no I don't. All I need to do is change the $d10 variable (to random number between 1 and 5 rather than 1 and 10). Easy peasy. Doing this will make the game work how I wanted it to work. Removing the connections between the passages is actually just about "tidying up" the code so there is no trace of the previous design choice I made. 
+
+I'm the kind of person who likes to keep things looking tidy, sometimes to the point of getting in my own way. I think that using a tool like Twine that visually represents the connections between different bits of code using squares and arrows not only makes me think about keeping things neat and tidy, but creates points of contact with the build where I can easily exercise that impulse. 
+
+By resisting the urge to tidy up, I leave behind traces of my choices in the design, keep code that will be useful for if I end up making a larger board where 10 spaces is a more suitable amount of movement per turn, and free up time and energy to work on other parts of the game (e.g., working on the "life story" these spaces are expressing).
+
+--
+
+
+

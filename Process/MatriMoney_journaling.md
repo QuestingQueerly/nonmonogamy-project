@@ -49,7 +49,7 @@ are the most efficient way to accumulate enough wealth to win.
 
 **Ideas**
 - Right now, Spouse Spaces all say the same thing ("It's your lucky day! You fall in love and get married!"). This feels kind of boring. I would like to write a variety of descriptions for each of these if I can, as well as for spaces where you lose a spouse. 
-- Someone left a comment in my Discord journal suggesting a secondary win condition: If spouses could independently marry each other, then the game could end if/when everyone is married each other; Additionally, play could become cooperative if players marry into the same network. I think this is worth exploring down the line! I was already thinking about cooperative what cooperative versions of this game would look like, and I'm interested in what it could look like to have a dynamic combination of competition and collaboration...
+- Someone left a comment in my Discord journal suggesting a secondary win condition: If spouses could independently marry each other, then the game could end if/when everyone is married each other; Additionally, play could become cooperative if players marry into the same network. I think this is worth exploring down the line! I was already thinking about what cooperative versions of this game would look like, and I'm interested in what it could look like to have a dynamic combination of competition and collaboration...
 - In future iterations, it could be interesting to see what happens if players have to re-invest their money back into maintaining their marriages or else risk losing them. Families have no cost in *GoL*, so what happens if we introudce one?
 - In future iterations, I would like to try to make it so that landing on the same space means marrying *the same* spouse. 
 - If I were to continue having children be worth thousands of dollars such that other spaces affecting the $Cash variable become flavourtext, maybe those little story beats could carry variables that change the end-state/ win condition? 
@@ -87,11 +87,40 @@ Today, I want to finish writing descriptions for the unfinished spaces and do a 
 - I removed the 2-kid baby bonus for crossing the finish line first; This would require tracking whose turn it is and, for now, that's happening verbally rather than being done through code
 - Did some general debugging (catching stray variables, etc.) 
 
+**Ideas**
+- Re: Verbal communication and turn taking - If I were to bring back the Baby Bonus for getting to the office first, it would introduce a reason for players to want to spin more quickly (and possibly misrepresent when/how often they are spinning). 
+
+**Next Up**
+- Work the bugs out of the annulment spaces
+- Test the final count at the end of the game
+- Use this Twine build as a starting point for mapping out future variations
+
 **Reflection**   
 I realized that in this game, "balance" doesn't necessarily mean making sure the gaining/losing of money doesn't put players in the red. The more players go into debt ($Cash below 0), the more marrying and having babies becomes a source of relief. Engineered desperation can be a feature rather than a bug. 
 
-Populating the game spaces with descriptive writing did make this feel more like a life story but I also feel like it might be a source of overdetermination. I don't want to get too set on one version of this game's "life story" too early on... Keeping things stripped down to basic functions might be a good call. 
+Populating the game spaces with descriptive writing did make this feel more like a life story but I also feel like it might be a source of overdetermination. I don't want to get too set on one version of this game's "life story" too early on... Keeping things stripped down to basic functions (as opposed to getting too deep into the creative writing side of things) might be a good call? 
 
 &nbsp;
 &nbsp;
-<p align="center">*November 1st, 2025*</p>
+<p align="center">*November 10, 2025*</p>
+
+I'm back after a bit of an unexpected hiatus. (See my general journal entry for this date.)  
+
+**Intentions**
+I'm dealing with some brain fog and need to get re-acquainted with this Twine build. 
+
+The goal today is to click few a few runs of the current build and make notes about what I want to add, remove, or change. 
+
+**Log**
+- I removed the series title I came up with when I started ("Games of Our Lives"). I'm concerned about overdetermination and becoming too rigid in my thinking because of something I really only intended as a placeholder. 
+- I changed the win-state from. The winner was the player with the most children by the end of the game, now it is the player who "grows their family and fortune the most." 
+- I changed the text "It's time to head to the car and cruise for hotties!" to "It's time to head to the car and start looking for lucrative love." "Cruising" feels too close to queer culture for a game about the contradictons of compulsory hetero-monogamy and capitalism. I kind of want this game to feel as heteronormative as possible. "Hotties" places far too much emphasis on attractiveness when if players should be attracted to anything in a partner here, it's, uhm, fertility. 
+- I changed the text on the Spouse Spaces from "You fall in love and get married" to "You find someone else who is ready to tie the knot and shoot their reproductive shot." If the player lands on a space where they get married to a couple, they shoot that shot "with both barrels."
+- Space 40 tells players that one of their spouses is going to give them a bonus baby even when they don't have any spouses. Created a new if: condition to fix this. (What should this space do when someone arrives?)
+- On a 40 space board, a spinner with a maximum of ten spaces makes the game go by way too quickly. I'm changing the spinners so they choose a random number between 1 and 5. Just like in *GoL*, going back means being further from the finish line, but also gives you more opportunities to accumulate assets. 
+- The game ending when one player crosses the finish line doesn't really work for the story of the commute. 
+- Related to the above issue, I'm adding some spaces that send players backwards. Space 26 (annulment) and the neutral spaces seem like good candidates
+
+**Ideas**
+- Combining family units to increase profits could be called "mergers." What determines whether a merger is successful or not? Maybe I could create a stat check of some kind? Alternatively, could there be another use for spinners and chance here? Why would the merger be a gamble, and what is at stake? 
+- 
