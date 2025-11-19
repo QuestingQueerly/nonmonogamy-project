@@ -104,10 +104,8 @@ Populating the game spaces with descriptive writing did make this feel more like
 &nbsp;
 <p align="center">*November 10, 2025*</p>
 
-I'm back after a bit of an unexpected hiatus. (See my general journal entry for this date.)  
-
 **Intentions**
-I'm dealing with some brain fog and need to get re-acquainted with this Twine build. 
+I'm back after a bit of an unexpected hiatus. I'm dealing with some brain fog after travelling to Prince George and need to get re-acquainted with this Twine build. 
 
 The goal today is to click few a few runs of the current build and make notes about what I want to add, remove, or change. 
 
@@ -123,4 +121,19 @@ The goal today is to click few a few runs of the current build and make notes ab
 
 **Ideas**
 - Combining family units to increase profits could be called "mergers." What determines whether a merger is successful or not? Maybe I could create a stat check of some kind? Alternatively, could there be another use for spinners and chance here? Why would the merger be a gamble, and what is at stake? 
-- 
+
+&nbsp;
+&nbsp;
+<p align="center">*November 10, 2025*</p>
+
+**Intentions**
+I think I'm just about ready to call this variation complete. Today's goal is to finish adding spaces that make players backtrack, debug, and play a couple of times with my partner to see how it *feels* and get some feedback. 
+
+**Log**
+- I added some spaces that cause players to backtrack. Previously, the annulment spaces just printed text about the player's jealousy or anxiety if they didn't have any spouses yet. Now, they're sent backwards on their commute (e.g., to space 16 where they effectively lose a turn) so that they have a chance of picking up a few spouses before they reach the finish line. 
+- I found and fixed a few typos and stray bits of accidentally visible code
+- I found a broken link (represented by a tiny red 'x') hiding in all those intersecting arrows. Turns out it was connected to a duplicate passage. Fixed! 
+- I edited the intro passage to include some play instructions to make it clear that the game is played using two seperate devices. 
+
+--
+

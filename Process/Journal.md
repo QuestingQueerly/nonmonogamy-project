@@ -1,6 +1,6 @@
-# Ideation
+# Journal: Desigining Non-Monogamies in Games
 
-## Early Concepts
+## Ideation and Early Concepts
 
 *Friday, October 10th 2025*
 
@@ -418,7 +418,7 @@ A few observations from this unexpected playtest:
 
 &nbsp;
 &nbsp;
-## An Unplanned Playtest
+## On Traceability and Tidying Up 
 
 *November 11th-12th, 2025*
 
@@ -443,7 +443,34 @@ I'm the kind of person who likes to keep things looking tidy, sometimes to the p
 
 By resisting the urge to tidy up, I leave behind traces of my choices in the design, keep code that will be useful for if I end up making a larger board where 10 spaces is a more suitable amount of movement per turn, and free up time and energy to work on other parts of the game (e.g., working on the "life story" these spaces are expressing).
 
---
+&nbsp;
+&nbsp;
+## Matri-Money: Wrapping Up
 
+*November 14th-18th, 2025*
+
+### The Playtest
+I invited my partner (T) to play the game (*MatriMoney* V1d) and share his thoughts. It might be worth noting that we've been together for over ten years and that we've always been non-monogamous. I've spoken to him about this game concept before, so he has a general idea of my intentions, but he's also not someone who plays games often. 
+
+Toward the end of the game, we were neck in neck. Reducing the spinner from 10 to 5 and adding spaces that force players to lose spouses or go backwards both made a huge difference. I didn't expect to make something that I would actually have fun playing. The final score was 238 to 255 in my favour.  
+
+The thing that jumped out to me the most during this playtest was how the game ended. Because we are playing seperate instances of the game on different devices, there is no way for one player's Twine code to know that the other player has reached the office. So, while the winning player's score is calculated automatically in-browser, the losing player (or players) can only know their final score by doing the math themselves. 
+
+I find this kind of funny. It's as though losing the race adds insult to injury by asking you to manually count your chickens, a.k.a. going through your personal finances. That said, it's entirely possible to do the math and come out ahead of the person who reached the office first; The winner of the race component of the game may actually regret having reached the office too soon, thereby losing out on opportunities to continue collecting spouses. The game ends up expressing that being too eager to get to work isn't desirable or something to be *too* enthusiastic about. It places emphasis on the idea that getting married and having kids is the most desirable/efficient way to make money. 
+
+According to T: 
+- The game feels very "*Monopoly*-like"
+- There was some confusion about whether each turn was a morning commute or the whole game was a morning commute
+- I should add something making it clear about how you are connecting with new spouses from inside the car (e.g., waving to fellow drivers)
+- It was unclear that players are supposed to take turns or how turn-taking should work
+
+Post Playtest Changes (*MatriMoney* V1e): 
+- Intro text edited for clarity (making it clear that the whole game takes place on one morning commute, that you spend the whole game driving, that the game ends whenever someone reaches the office, and that some players will need to do math when all is said and done)
+- Removed some unnecessary/reduntant text (e.g., deleting "You spun the spinner" and just saying what the spinner landed on)
+
+I wanted to make negative $Cash values red BUT I NEED TO MOVE ON. 
+
+&nbsp;
+## New Directions
 
 
