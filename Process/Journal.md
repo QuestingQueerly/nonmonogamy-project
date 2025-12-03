@@ -473,4 +473,46 @@ I wanted to make negative $Cash values red BUT I NEED TO MOVE ON.
 &nbsp;
 ## New Directions
 
+*December 3rd, 2025*
+
+For the last chunk of time, I've been working on two things. 
+
+1) Creating a non-digital version of the Twine build of *MatriMoney*
+2) Working on a fantasy RPG version of *MatriMoney* in Bitsy. 
+
+My first thought is about how this journal almost ceased to exist in my brain as soon as I started working with physical materials. 
+
+I think part of this is because my tendency to get sucked into a task in a way that feels more like hyperfixation than just flow. Combined with poor interoception, it's a deadly combo: my body doesn't always send me signals that say "you've been doing this for a long time and should probably move, switch tasks, take a break, etc.". Without those cues, there isn't a natural inclination to transition from working with  craft supplies to journaling digitally. 
+
+Ideas for what to do about this going foward:
+1. I could try taking notes by hand when I'm working with physical materials and just typing them out? I find that I retain information better with hand-written notes, but honestly, the idea of having to type everything out a second time feels... annoying? 
+2. I could take pictures of those notes and keep a seperate "photo journal" for when I'm working with non-digital materials. The problem I have with this is how it makes me feel spread "too thin" across different workspaces. I already have a second journal that I was specifically using when I was actively working on the Twine build, and even that made my work feel "like butter scraped over too much bread" (to quote Bilbo Baggins in *The Fellowship of the Ring*) 
+3. I outsource the job of sending these signals from my body to my phone and set an alarm that tells me to take a journalling break. 
+
+Option one involves unnecessary extra steps and option two involves unnecessary extra workspaces. Option three is the simplest splution, so I think I'll start there. 
+
+### MatriMoney: Bitsy Edition
+When I haven't been fussing about trying to figure out all the right pieces for a non-digital version of *MatriMoney*, I've been working on something in Bitsy. 
+
+As I worked in Twine, I kept getting the feeling 1860s *Checkered Game of Life* wasn't getting nearly as much attention as the 1960s *GoL*. Something about the simplicity of that version sticks with me, especially when it comes to how the game used a point system that didn't involve money. It wasn't (just) about accumulating capital, it was about making choices that aligned with the game's idea of a morally "good" person. *CGoL* still very much implies that being a good person involves making decisions that lead to a good paying job (otherwise, how could reach a comfortable retirement?), so I don't need to do away with that thread entirely, but I did want to create something that places more emphasis on the moral angle. 
+
+ I decided to do this by using the trappings of fantasy RPGs, speficially, the original *Legend of Zelda* (1986).I borrowed a handful of game elements to start with (figures, scripts, even color palettes) and then did some brainstorming about how to re-configure this classic story to tell players something about the supposed moral imperative to marry and reproduce!
+
+ My decision to use Bitsy was mostly based on a gut feeling. The aesthetic qualities of this platform/tool (simple pixel art, animations, and colour schemes) felt right. Because the Twine version removed the visual representation of moving through space, I was interested in bringing that back without necessarily having to come back the board game formula. 
+
+ So far, the concept is... loose. I have the player taking on the role of a fantasy hero. Much like Link, they enter a cave and talk to a Wizard. In this case, the Wizard (named Milton Bradley) instructs the player that in order to follow the path of a hero, they must "go forth and multiply" by using the Wedding Ring to save the realm. When they pick up the ring, text appears on screen that says "It's dangerous to be alone! Take this!" The core idea so far is to have players charge up the Wedding Ring so they can marry as many Princesses as possible. 
+
+ From there, I've just been playing (improvising?) with Bitsy's affordances to figure out what comes next. Moving in this direction takes me further away from my intiial goal of exploring what a *competitive* game about non-monogamy could look like; I'll be keeping this in mind as I move forward.
+ 
+ While following these instincts, I'm hitting road blocks. 
+ 
+ For example, I haven't actually figured out *how to make it dangerous to be alone in this world.* Bitsy sprites can't *move* like *Zelda* enemies do. I created an enemy-type sprite called "The Spouseless" (a sad and angry looking blob with a mouth), but quickly realized I can't make it move around the forest so players can dodge or attack it. You can change a sprite's location in a room by using something called the room-swapping technique (essentially transporting the avatar into an identical room where the sprite has been moved), but that isn't really what I'm looking for... These sprites seem to be intended for choice-based interactions involving dialogue and items - not movement based interactions. (I did find [a dungeon crawler made in Bitsy](https://breadmouth.itch.io/a-bitsy-dungeon-crawler), but there were no moving enemies!) 
+
+So, if the challenge of charging the Wedding Ring isn't dodging dangerous (unmarried, childless) creatures in the woods, how are players going to progress? 
+
+**Ideas Going Forward**
+- Currently, I have the player charging the Wedding Ring using a shrine (very *Zelda* indeed). Maybe I can create a mechanic for accessing these shrines that calls back to *CGoL*. What if the player had to answer morality-based questions correctly to use the shrine, proving they are a particular kind of "good" person to progress? 
+- Like I mentioned earlier in this entry, *CGoL* doesn't involve any direct wealth accumulation, but it does imply that being a good person involves getting a good (persumably well-paying) job in order to reach a comfortable retirement. Maybe the right move is to make money a resource without making it the goal/win-state. Players collect money to charge the Wedding Ring, which enables them to collect spouses/children
+- By emphasizing Family Legacy over wealth accumulation, I can continue to lean into the logic of "more spouses = more babies = success," in this case because my spouses are ensuring there are more heroes who will continue to "save the realm" (by getting married and having children of their own...)
+
 

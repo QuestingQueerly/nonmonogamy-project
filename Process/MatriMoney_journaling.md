@@ -133,7 +133,12 @@ I think I'm just about ready to call this variation complete. Today's goal is to
 - I added some spaces that cause players to backtrack. Previously, the annulment spaces just printed text about the player's jealousy or anxiety if they didn't have any spouses yet. Now, they're sent backwards on their commute (e.g., to space 16 where they effectively lose a turn) so that they have a chance of picking up a few spouses before they reach the finish line. 
 - I found and fixed a few typos and stray bits of accidentally visible code
 - I found a broken link (represented by a tiny red 'x') hiding in all those intersecting arrows. Turns out it was connected to a duplicate passage. Fixed! 
-- I edited the intro passage to include some play instructions to make it clear that the game is played using two seperate devices. 
+- I edited the intro passage to include some play instructions to make it clear that the game is played using two seperate devices.
 
---
+&nbsp;
+&nbsp;
+<p align="center">*November 10, 2025*</p>
 
+Post Playtest Changes (*MatriMoney* V1e): 
+- Intro text edited for clarity (making it clear that the whole game takes place on one morning commute, that you spend the whole game driving, that the game ends whenever someone reaches the office, and that some players will need to do math when all is said and done)
+- Removed some unnecessary/reduntant text (e.g., deleting "You spun the spinner" and just saying what the spinner landed on)
