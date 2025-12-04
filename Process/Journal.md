@@ -514,5 +514,94 @@ So, if the challenge of charging the Wedding Ring isn't dodging dangerous (unmar
 - Currently, I have the player charging the Wedding Ring using a shrine (very *Zelda* indeed). Maybe I can create a mechanic for accessing these shrines that calls back to *CGoL*. What if the player had to answer morality-based questions correctly to use the shrine, proving they are a particular kind of "good" person to progress? 
 - Like I mentioned earlier in this entry, *CGoL* doesn't involve any direct wealth accumulation, but it does imply that being a good person involves getting a good (persumably well-paying) job in order to reach a comfortable retirement. Maybe the right move is to make money a resource without making it the goal/win-state. Players collect money to charge the Wedding Ring, which enables them to collect spouses/children
 - By emphasizing Family Legacy over wealth accumulation, I can continue to lean into the logic of "more spouses = more babies = success," in this case because my spouses are ensuring there are more heroes who will continue to "save the realm" (by getting married and having children of their own...)
+- It might make more sense for the people you propose to to be fellow adventurers rather than Princesses. We'll see what happens
+
+**Reflections on My Process**
+- I don't think I'm going to continue keeping a seperate journal for when I'm actively working on a game build. It makes my brain feel unnecessarily and unpleasantly busy and makes my thinking feel disorganized. I think there's a difference between choosing to document something outside the journal because it makes sense in the moment and insisting on a seperation between thinking/reflecting during active creative work and thinking/reflecting after the fact. It hasn't felt like a very useful distinction 
+- I'm hoping that switching out of Twine and into a tool for building visual environments might help me gain a better sense of what I would do with it next. 
+
+&nbsp;
+## Finding New Bitsy-s and Pieces to Play With
+
+Okay - no charging shrines. Let's just see what happens if we decide that the Wedding Ring is powered by money. Since this is a fantasy adventure, let's go with gold coins. How does the player earn those coins? To work that out, I went back to *CGoL*'s game board. 
+
+**CGoL Spaces and Moral Rhetoric**
+Note: Happy Old Age Space = Win State/End Goal; Matrimony Space = turned into a mechanic
+
+Positive Spaces
+1. Honour (-> Bravery)
+2. Happiness (-> Honesty) 
+3. College (-> School)
+4. Success (-> Perseverance)
+5. Fat Office (-> Influence)
+6. Congress (-> Politics)
+7. Wealth (-> Industry, Government Contract)
+
+Negative Spaces
+1. Fame (-> Ambition)
+2. Disgrace (-> Idleness)
+3. Prison (->Crime)
+4. Poverty (-> Impertinence)
+5. Ruin (-> Gambling)
+
+**From A Checkered Game of Life to the Tale of a Fantasy Hero**
+The player will gain gold coins (thereby charging the Wedding Ring and proposing to princesses) by doing some combination of: 
+
+1. Being brave, which is honourable.  
+This aligns pretty well with a fantasy hero.  
+
+2. Bring honest, which makes you happy.  
+Honesty is also a trait that feels pretty typical for a fantasy hero.  
+
+3. Being educated, which leads to further education.  
+You don't usually see fantasy heroes going to school. That said, if I were to interpret this as the player needing to learn something specific about the world (and maybe pass a short quiz about it), this could work.  
+
+4. Persevering, which brings success.
+Succeeding through perseverence also aligns with the usual progression of a fantasy hero.  
+
+5. Being influential, which results in a position of power.
+See #4: Using influence to gain power reads to me like what the player is doing when they control the fantasy hero into succeeding through perseverence. 
+   
+6. Engaging with politics, which leads to government involvement.  
+I guess I can decide how much I want to engage with the idea that the Princesses being proposed to are part of a monarchy. 
+
+7. Working in government or industry, which leads to wealth.
+See #6; Also, working in alignment with the kingdom's goals of having more adventurers to save them in the future (more workers for the workforce) earns you money. 
+
+8. Not being too ambitious, which leads to fame (shameful).
+This one is tricky. I could combine it with #12 (gambling, ruin) by inviting the player to take risks with their money, losing, and earning themselves a shameful reputation (infamy?). 
+
+9. Not being lazy because it leads to to disgrace.
+Refusing to do what the game is asking means not progressing, easy as that. 
+
+10. Not committing crimes because it leads to prison.
+Not being a criminal also feels fairly easy to align with being a fantasy hero. Steal the item? Lose money. Return it to its rightful owner? More gold to charge the Wedding Ring. 
+
+11. Not being impertinent because it leads to poverty.
+Fantasy heroes are supposed to be kind and honourable, so it would make sense that rudeness would cause the player to lose money. 
+
+12. Not gambling, because it leads to ruin. 
+See #8. 
 
 
+**Implementing These as Scenes in Bitsy: Five Scenarios**
+Note: (4+5+9) These things (perseverence, influence, power, not being lazy, success) are arguably often implied in the video game fantasy hero's journey (unless the game in question is actively trying to subvert those traits).
+
+1. (1) An situation where the player saves someone/something from a scary situation. For their bravery, they are are rewarded in gold. 
+Q: Does the situation actually need to be scary for the player, or is it enough for the player to recognize the choice as "an act of bravery" on the part of the hero?  
+
+2. (2+10) A situation where the player comes across a stolen object. They are given the choice to keep the object (lie, commmit a crime) or return it to its rightful owner (be honest, stay out of trouble). The player would be rewarded in gold for choosing the former (which would make the hero happy).  
+
+3. (3+8+12) A situation where the player must gather information (e.g., facts written on notes left scattered around asking, for example, what the Princess's favourite dessert is) and demonstrate their knowledge in order to earn gold. I'm thinking they could meet an NPC who is laying a quiz game. This is combined with #8 (Ambition/Shame) and #12 (gambling/ruin) because the player risks losing gold if they answer incorrectly.  
+
+4. (6+7) Making progress in this game could involve getting closer to the monarchy. Maybe you start off proposing to non-Royals and "earn" the right to propose to the Princess as a sort of final boss? Helping save the kingdom by marrying and reproducing (creating more adventurers to help save the kindgdom in the future) does indicate that our hero is politically engaged on some level.  
+
+5. (11) A situation where the player can earn gold by avoiding being rude to someone. Being kind and polite gets them closer to gaining another spouse.  
+
+--
+
+This gives me a total of five potential gold-earning/Ring charging scenarios for players. Now I just need to figure out which one to start with. #2, the quest to return a stolen object seems like a fairly simple and workable idea. Will update. 
+
+-- 
+
+Last task: adjusting the if/else condition on the first chest so that it only increases the Wedding Ring's charge by 1; at the moment, it's still increasing even after the chest has been emptied! After that I want to make the transition into the next room a one-way exit into the adventure zome... maybe I can try to make one simple room for each of the scenarios listed above? 
