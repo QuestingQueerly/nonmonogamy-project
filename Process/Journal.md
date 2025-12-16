@@ -523,6 +523,8 @@ So, if the challenge of charging the Wedding Ring isn't dodging dangerous (unmar
 &nbsp;
 ## Finding New Bitsy-s and Pieces to Play With
 
+*December 9, 2025*
+
 Okay - no charging shrines. Let's just see what happens if we decide that the Wedding Ring is powered by money. Since this is a fantasy adventure, let's go with gold coins. How does the player earn those coins? To work that out, I went back to *CGoL*'s game board. 
 
 **CGoL Spaces and Moral Rhetoric**
@@ -605,3 +607,24 @@ This gives me a total of five potential gold-earning/Ring charging scenarios for
 -- 
 
 Last task: adjusting the if/else condition on the first chest so that it only increases the Wedding Ring's charge by 1; at the moment, it's still increasing even after the chest has been emptied! After that I want to make the transition into the next room a one-way exit into the adventure zome... maybe I can try to make one simple room for each of the scenarios listed above? 
+
+&nbsp;
+## Itsy Bitsy Second Thoughts
+
+*December 16, 2025*
+
+I'm second guessing the value of making this Bitsy prototype. I got ahold of some materials to put together to build a non-digital version of *MatriMoney*, but I do want to dedicate a few more days to seeing where this goes before letting go of it completely. 
+
+When I go back and read my rationale for doing this, it makes sense, but I think the concept *feels* really weak. When using Twine, I knew how to work with specific affordances to produce specific results and branch out from there. The flow of the project feels very different in Bitsy; I find myself searching for lists of features and hacks and asking "does this affordance connect with the concept as it currently exists in my head/on paper?"
+
+I've used Sara Ahmed's theories of queer phenomenology to talk about how players interact with games, but what about designers? In this case, it feels as though depending on how I am oriented to the overall concept in the first place, I'm reaching out for different kinds of re-orientation objects to help "solve the problem." 
+
+And of course, that gets me thinking about how Rilla talks about this process being multidimensional... 
+
+Practically speaking, I found a GitHub page with [a list of Bitsy hacks](https://seleb.github.io/bitsy-hacks/). There were a few that drew my attention (e.g., the timer, the "follower") but I'm particularly interested in the multi-sprite avatar hack. What if every time the adventurer got married to someone new, their avatar grew in size and power? What would power even mean in that context? 
+
+Alternatively, I'm looking for a way to have each new spouse (and their babies?) appear in front of the Royal Palace at the end of the game to show the kingdom being repopulated.Not sure what this would look like yet. 
+
+--
+
+
