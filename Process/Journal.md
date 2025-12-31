@@ -625,6 +625,57 @@ Practically speaking, I found a GitHub page with [a list of Bitsy hacks](https:/
 
 Alternatively, I'm looking for a way to have each new spouse (and their babies?) appear in front of the Royal Palace at the end of the game to show the kingdom being repopulated.Not sure what this would look like yet. 
 
+&nbsp;
+## Taking the Long Way Around, Finding a New Direction
+
+Over the holidays, I decided I had done enough work on *MatriMoney: A Fantasy Adventure*. It's nowhere near a finished/polished game, more of an intro squence that sets up the core mechanic (marrying princesses to make babies and increase the supply of adventurers.) The concept still felt weak and, while I had followed my instinct to pivot away from competition, I found myself reaching for it and asking questions about it again. 
+
+I think that maybeI needed to go on this "side quest" to get an idea of what I was capable of doing with Bitsy before landing on a variation of *MatriMoney* that felt conceptually solid/closer to its original form. It's as though getting lost made it necessary to pay the closer attention to the rocks and trees that I needed to map out the next path. I couldn't do nothing, and getting lost still brought me closer to Something. ("Don't stop - make, do, and make do!")
+
+The new version of *MatriMoney* I've uploaded today is playable and essentially complete. The main thing I would want to change in any future versions would be to edit the dialogue of each spouse to make their acceptance/rejections unique rather than cycling through the same three possibilities. For now, it works! (Oh my god, I built this thing in two days and it works!) I included some screenshots of the simple pixel art I made in the process docs; I think feeling proud of how this game *looks* gave me some of the energy I needed to keep going. 
+
+### Thoughts On Making MatriMoney in Bitsy
+
+Like in the Twine version of *MatriMoney*, this version requires players to open seperate physical instances of the same game on their own devices (something I previously referred to as playing "*Battleship* style"). They are immediately given instructions explaining who they are, what their goal is, and how a winner is determined at the end of the race. They then start playing on a screen with a cozy house, yard, and white picket fence. (Not literally, because Bitsy uses 3-colour palettes and white wouldn't have worked, but it certainly evokes whiteness.)
+
+There are a couple of signs with driving tips (e.g., telling players to wait for all oppoennts before getting in the car, explaininig that all they need to do is approach a person in their vehile to interact, etc.). (If needed, I'll be making small changes for clarity and flow of information based on playtesting feedback.) From there, the race begins: Players must marry as many spouses as possible before someone ends the game by finishing their commute and reaching the Workman's Business Office. 
+
+**Luck and Strategy - "Suggestive Competition"?**
+Like in the 1960s *GoL*, this version of the game combines luck and strategy. Luck plays a role in whether a prospective spouse says yes to your proposal (a random 33.333% chance). Luck is also involved in the way the game ends: players can end the game by reaching the office first but, like in some card games (e.g., gin rummy), they risk the possibility that they will end the game when their opponent actually has more spouses/babies than they do (i.e., being undercut). 
+
+The inclusion of visual representation and audio cues (as opposed to a room-by-room, hypertext abstraction of a physical game board) provides opportunities for what I think I want to call "suggestive competition." They are a huge part of why competition *feels* so different across these two interfaces. Instead of players being in the dark about where their opponent is and what they are doing, I think the visuals and sounds encourage competitive attitudes and behaviors by *suggesting* a comparison and letting our imaginations do the rest of the work. 
+
+For example, the background music pauses whenever the player stops driving to interact with something. When they interact with a prospective spouse, a "ding" sound goes off. This means players can tell *how often/how many times they've proposed*, but *not whether the person accepted the proposal.* This kind of feedback might encourage players to strategize based on comparison to the hypothetical state of their opponent's game: for example, I might have only 2 spouses and hear many "ding" sounds coming from the other computer, which tells me my opponent is stopping a lot more than I am and that I might want to focus more on proposing and less on getting to the office first; if I don't hear many "ding" sounds, I might choose to backtrack to propose to someone I previously drove past to save time with the hope of undercutting my opponent. 
+
+The way I designed the roads also leans into this suggestion of comparison. Players can't see the avatar of the person they are competing with but they know the competitor is there, setting an unseen standard. Including multiple possible pathways that involve different levels of risk/reward might get players thinking about which decision their opponent made: would they take the short route with fewer spouses or spend more time navitagting a maze to get that extra spouse? 
+
+Keeping up with what is "normal" or "expected" in the context of the game connects with the idea of "keeping up with the Jones's," making sure we are striving to meet the same measures of success as our competitors/neighbours/society as a whole.
+
+**Notes on Gender and Sex**
+- The board game version stayed pretty gender neutral, but over time the hetero-compulsivity of the game took over. I found myself writing all spouses as women and the player as a Man Working at the Business Factory. The world *feels* very normative/patriarchal, which makes sense for a game leaning into the capitalist logic of *GoL*...
+- The spouses are objectified both socially and mechanically. The simplest way to create spouse interactions without setting up a whole bunch of if:else conditions was to classify them as items (rather than using sprites as you traditionally would for characters). This also means the spouses are “used up” once they are interacted with. They cease to exist (though their cars remain) because you have either added them to your harem or they are just no longer relevant once they've rejected you sexually...
+
+**What If...?**
+- How might "suggestive competition" invite more possibilities for meat-space interactions in these games?
+- What if instead of being able to backtrack, one-way exits pushed the player forward. That way, when they enter a room, they have to decide whether to spend time interacting with potential spouses or moving ahead, but moving ahead will get them locked out in the future.
+- What if instead of gendering the player/spouses as M/F respectively, I went back to the Twine build's strangely queer floating reproductive capacity; you can always have a baby with your spouse but its unclear which of you is actually getting pregnant… Based on *GoL*'s logic, maybe the ideal capitalist world is one where everyone can get pregnant! Strangely queer and progressive! (lol)
+
+**Fun Side Notes**
+- I based the value of the babies in this game on the original *GoL*'s price of $50,000 per child. Using an inflation calculator, I found out that those kids would be worth $526751.29 USD in 2025. 
+- The idea of a reusable diamond ring is very funny to me. 
+- Bitsy avatars are very simple. Unlike in GB Studio, you can animate them but not make them face different directions.The result here is a little yellow car throwing itself ass-backwards into relationships at times. 
+
 --
+
+
+
+
+
+
+
+
+
+
+
 
 
