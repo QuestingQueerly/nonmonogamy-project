@@ -1,0 +1,624 @@
+"""
+MatriMoney: A Fantasy Adventure
+
+QuestingQueerly - 2025
+"""
+
+# BITSY VERSION 8.14
+
+! VER_MAJ 8
+! VER_MIN 14
+! ROOM_FORMAT 1
+! DLG_COMPAT 0
+! TXT_MODE 0
+
+PAL 0
+255,229,241
+76,153,33
+222,171,95
+NAME IntroAreas
+
+PAL 1
+0,0,0
+51,255,2
+222,192,2
+NAME Cave
+
+ROOM 0
+b,b,b,b,b,a,a,0,a,a,b,b,b,b,b,b
+b,b,b,b,b,a,a,0,a,a,a,a,b,b,b,b
+b,b,b,b,a,a,a,0,a,a,a,a,a,b,b,b
+b,b,b,a,a,a,0,0,0,0,0,a,a,a,b,b
+b,b,a,a,0,0,0,0,0,0,0,0,a,a,a,b
+a,a,a,0,0,0,0,0,0,0,0,0,0,a,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,a,0,0,0,0,0,0,0,0,0,0,0,a,a
+b,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+b,b,a,a,a,a,a,a,a,a,a,a,a,a,a,b
+NAME Room1_Intro
+EXT 15,11 2 0,7 FX slide_r DLG a
+EXT 7,0 1 8,15 DLG c
+PAL 0
+
+ROOM 1
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,a,b,b,a,0,a,b,b,a,b,b,b
+b,b,b,b,b,b,a,0,0,0,a,b,b,b,b,b
+b,b,b,a,b,a,0,0,0,0,0,a,b,a,b,b
+b,b,b,b,a,0,0,0,0,0,0,0,a,b,b,b
+b,b,a,b,a,0,0,0,0,0,0,0,a,b,a,b
+b,b,b,b,a,0,0,0,0,0,0,0,a,b,b,b
+b,b,b,b,b,a,0,0,0,0,0,a,b,b,b,b
+b,b,b,a,b,b,a,0,0,0,a,b,b,a,b,b
+b,b,b,b,b,b,a,a,0,a,a,b,b,b,b,b
+b,b,b,b,a,b,b,a,0,a,b,b,a,b,b,b
+b,b,b,b,b,b,b,a,0,a,b,b,b,b,b,b
+b,b,b,b,b,b,b,a,0,a,b,b,b,b,b,b
+b,b,b,b,a,b,b,a,0,a,b,b,a,b,b,b
+b,b,b,b,b,b,b,a,0,a,b,b,b,b,b,b
+b,b,b,b,b,b,b,a,0,a,b,b,b,b,b,b
+NAME Room2_CaveEntrance
+EXT 8,15 0 7,0
+EXT 8,2 3 8,15
+PAL 0
+
+ROOM 2
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,a,a,a,a,a,a,a,b,b,a,b,a,a,a,b
+a,a,a,0,a,a,a,0,0,0,0,0,0,a,a,a
+a,a,0,0,0,a,0,0,0,0,0,0,0,0,a,a
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a
+a,a,0,0,0,0,0,0,0,0,0,0,0,0,a,a
+a,a,a,0,0,0,0,0,0,0,0,0,0,a,a,a
+b,b,a,a,a,b,b,a,b,b,a,b,a,a,a,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b
+NAME Room5_RoadToFortune
+PAL 0
+
+ROOM 3
+b,b,b,b,b,b,b,b,0,b,b,b,b,b,b,b
+b,c,c,c,c,c,c,c,0,c,c,c,c,c,c,b
+b,c,0,0,0,0,0,0,0,0,0,0,0,0,c,b
+b,c,0,0,0,0,0,0,0,0,0,0,0,0,c,b
+b,c,0,0,0,0,0,0,0,0,0,0,0,0,c,b
+b,c,0,0,0,c,0,0,0,0,0,c,0,0,c,b
+b,c,0,0,0,0,0,0,0,0,0,0,0,0,c,b
+b,c,0,0,0,0,0,0,0,0,0,0,0,0,c,b
+b,b,c,0,0,0,0,0,0,0,0,0,0,0,c,b
+b,b,b,c,0,0,0,0,0,0,0,0,0,c,b,b
+b,b,b,b,c,0,0,0,0,0,0,0,c,b,b,b
+b,b,b,b,b,c,0,0,0,0,0,c,b,b,b,b
+b,b,b,b,b,b,c,0,0,0,c,b,b,b,b,b
+b,b,b,b,b,b,b,c,0,c,b,b,b,b,b,b
+b,b,b,b,b,b,b,c,0,c,b,b,b,b,b,b
+b,b,b,b,b,b,b,c,0,c,b,b,b,b,b,b
+NAME Room3_InsideCave
+EXT 8,15 1 8,2
+EXT 8,0 4 8,15 DLG d
+PAL 1
+
+ROOM 4
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,c,c,c,c,c,c,c,c,c,0,0,0
+0,0,0,0,c,0,0,0,0,0,0,0,c,0,0,0
+0,0,0,0,c,0,0,0,0,0,0,0,c,0,0,0
+0,0,0,0,c,0,0,0,0,0,0,0,c,0,0,0
+0,0,0,0,c,c,c,0,0,0,c,c,c,0,0,0
+0,0,0,0,0,0,0,c,0,c,0,0,0,0,0,0
+0,0,0,0,0,0,0,c,0,c,0,0,0,0,0,0
+0,0,0,0,0,0,0,c,0,c,0,0,0,0,0,0
+NAME Room4_InsideCave2
+ITM 0 8,10
+EXT 8,15 3 8,0
+PAL 1
+
+TIL a
+00011000
+00111100
+01111110
+00111100
+01111110
+00111100
+01111110
+00011000
+NAME Tree
+WAL true
+
+TIL b
+11101100
+01010101
+10101011
+11010101
+00101010
+01010101
+11101011
+00011101
+NAME Foliage
+
+TIL c
+00001000
+00011000
+00100100
+00010000
+00001000
+00100100
+00011000
+00010000
+NAME MiltonMoney
+WAL true
+
+TIL d
+00010100
+00000000
+10100101
+00101000
+10101001
+10000001
+01011010
+00111100
+>
+00000000
+00000000
+00100100
+00000000
+10101001
+10000001
+01011010
+00111100
+NAME MiltonMoneyFlames
+WAL true
+
+SPR A
+00000000
+00000000
+00111000
+00011000
+00011000
+00111100
+00011000
+00010000
+>
+00000000
+00000000
+00111000
+00011000
+00011000
+00111100
+00111100
+00001000
+POS 0 4,13
+
+SPR a
+00000000
+00000000
+00000000
+01111100
+01111100
+01111100
+00010000
+00010000
+NAME Sign
+DLG 0
+POS 0 8,8
+
+SPR b
+00000000
+00111100
+01111110
+01111110
+01111110
+01111110
+01111110
+01111110
+NAME Cave
+POS 1 8,1
+
+SPR c
+11100000
+10110000
+00110000
+11111100
+00110001
+01111010
+11111100
+00101000
+NAME MiltonBradley
+DLG 4
+POS 3 8,5
+
+SPR d
+00010100
+00000000
+10100101
+00101000
+10101001
+10000001
+01011010
+00111100
+>
+00000000
+00000000
+00100100
+00000000
+10101001
+10000001
+01011010
+00111100
+NAME MiltonFlames1
+DLG 5
+POS 3 4,5
+
+SPR e
+00010100
+00000000
+10100101
+00101000
+10101001
+10000001
+01011010
+00111100
+>
+00000000
+00000000
+00100100
+00000000
+10101001
+10000001
+01011010
+00111100
+NAME MiltonFlames2
+DLG 6
+POS 3 6,5
+
+SPR f
+00010100
+00000000
+10100101
+00101000
+10101001
+10000001
+01011010
+00111100
+>
+00000000
+00000000
+00100100
+00000000
+10101001
+10000001
+01011010
+00111100
+NAME MiltonFlames3
+DLG 7
+POS 3 10,5
+
+SPR g
+00010100
+00000000
+10100101
+00101000
+10101001
+10000001
+01011010
+00111100
+>
+00000000
+00000000
+00100100
+00000000
+10101001
+10000001
+01011010
+00111100
+NAME MiltonFlames4
+DLG 8
+POS 3 12,5
+
+SPR h
+00000000
+00000000
+00000000
+01111100
+01111100
+01111100
+00010000
+00010000
+NAME Sign2_Room5
+DLG e
+POS 2 12,5
+
+SPR i
+00000000
+00111100
+01000010
+10000001
+11111111
+10011001
+10000001
+11111111
+NAME Chest1
+DLG h
+POS 2 3,4
+
+SPR j
+00000000
+00000000
+00011100
+00011010
+00011000
+00111100
+01111110
+00001000
+>
+00000000
+00000010
+00011100
+00011000
+01011010
+00111100
+01111110
+00010000
+NAME Spouse1
+
+SPR k
+00000000
+00011000
+00011000
+00111100
+01011010
+00011000
+00100100
+00100100
+>
+00000000
+00011000
+00011000
+00111100
+00111100
+00011000
+00011000
+00011000
+NAME Villager1
+DLG g
+POS 2 9,5
+
+ITM 0
+00000000
+00000000
+00000000
+00011000
+00100100
+00100100
+00011000
+00000000
+NAME Ring
+DLG 1
+BLIP 2
+
+ITM 1
+00000000
+00111100
+00100100
+00111100
+00010000
+00011000
+00010000
+00011000
+NAME key
+BLIP 2
+
+DLG 0
+"""
+North - Mysterious Cave
+East - Road to Fortune
+"""
+NAME IntroSign
+
+DLG 1
+"""
+It's dangerous to be alone! Take this! 
+
+You got the Wedding Ring.
+"""
+NAME RingText
+
+DLG 4
+"""
+{TalkWiz = true}{sequence
+  - Greetings, traveller! I am the high wizard, Milton Bradley! In a dangerous place like this, it's hard to keep up with the cost of adventuring. To truly follow the Hero's path, you must harness the power of Family Legacy.
+    Behind me you will find the Wedding Ring. Quickly - take it!
+    Go forth and multiply to save the realm! 
+  - Don't you want to be a Hero in the eyes of the Realm? Get out there and shoot your shot!
+}
+"""
+NAME MiltonBradley dialog
+
+DLG 5
+It's hard work lighting this cave without burning all the money.
+NAME MiltonFlames1 dialog
+
+DLG 6
+It's hard work lighting this cave without burning all the money.
+NAME MiltonFlames2 dialog
+
+DLG 7
+It's hard work lighting this cave without burning all the money.
+NAME MiltonFlames3 dialog
+
+DLG 8
+It's hard work lighting this cave without burning all the money.
+NAME MiltonFlames4 dialog
+
+DLG a
+"""
+{
+  - {item "0"} >= 1 ?
+    {property locked false}You unblock the path with the power of {/rbw}Holy Matrimony!{/rbw}
+  - else ?
+    {property locked true}The path forward is blocked...
+}
+"""
+NAME Road_Lock
+
+DLG c
+"""
+You heard that an eccentric Wizard lives in this forest. 
+Maybe he can help you find your way. 
+"""
+NAME IntroPathNarration
+
+DLG d
+"""
+{
+  - TalkWiz == true ?
+    {property locked false}You persevere in the name of you Family Legacy.
+  - else ?
+    {property locked true}You should probably talk to the Wizard before exploring any further.
+}
+"""
+NAME BackRoomLock
+
+DLG e
+"""
+WARNING: THE WOODS ARE SO, SO VERY BORING!
+Due to an economic downturn caused by a lack of practising adventurers, the Royal Family has terminated all monster and ghost related quest lines until further notice.
+"""
+NAME Sign2_Room5 dialog
+
+DLG g
+"""
+{sequence
+  - Have you heard the news? An adventurer shortage! What a mess! It's way too quiet around here. Wait - you're an adventurer! Fix it! 
+  - How do you fix the adventurer shortage? Don't ask me. Can't you just make more?
+}
+"""
+NAME Villager1 dialog
+
+DLG h
+"""
+{
+  - RingCharge >= 1 ?
+    The chest is empty. 
+  - else ?
+    There's a note pinned to the chest with a dagger.
+    "My adventuring days are over, but here's a little something to get the next brave soul started."
+    You find a single gold coin.
+    The Wedding Ring glows brightly.
+}{RingCharge = RingCharge + 1}
+"""
+NAME Chest1
+
+VAR RingCharge
+0
+
+VAR Spouses
+0
+
+TUNE 1
+3d,0,0,0,3d5,0,0,0,3l,0,0,0,3s,0,0,0
+16d2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+4l,0,0,0,s,0,3l,0,0,0,2s,0,2m,0,2r,0
+16m2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+3d,0,0,0,3d5,0,0,0,3l,0,0,0,3s,0,0,0
+16l2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+3l,0,0,0,s,0,4m,0,0,0,4r,0,0,0,0,0
+16s2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME finale fanfare
+KEY C,D,E,F,G,A,B d,r,m,s,l
+TMP XFST
+SQR P2 P8
+ARP INT8
+
+TUNE 2
+0,0,2G,0,A,0,B,0,2C5,0,B,A,G,0,2G,0
+G3,0,D,0,G3,0,D,0,2A3,0,E,0,C,0,E,0
+>
+2F#,0,G,0,A,0,F#,0,2E,0,F#,E,4D,0,0,0
+2D,0,E,0,F#,0,D,0,2C,0,2G3,0,2F#3,0,D2,0
+>
+0,0,2G,0,A,0,B,0,2C5,0,B,A,G,0,G,0
+2G2,0,D,D5,G3,G,D,0,2C2,0,E,E5,C3,C,E5,0
+>
+2D,0,C5,B,A,0,A,0,4A,0,0,0,F#,0,0,0
+A2,0,E3,0,C3,0,E3,0,D3,0,A3,0,D,0,0,0
+>
+2E5,0,2G,0,2G5,0,2G,0,2F#5,0,2E5,0,2D5,0,2C5,0
+2C3,0,2E,0,2E5,0,2C,0,2A3,0,2C,0,2F#,0,2E,0
+>
+3B,0,0,0,2E5,0,D5,0,4A,0,0,0,G,0,0,0
+2G3,0,B3,0,2D,0,D3,0,2C3,0,G3,0,D#,0,0,0
+>
+0,0,2G,0,A,0,2B,0,C5,0,B,C5,A,0,G,0
+A2,0,A3,0,C,0,2D,0,D#,0,D,E,C,0,C3,0
+>
+8B,0,0,0,0,0,0,0,A,0,2F#,0,E,0,D,0
+D3,0,A3,0,F#,0,D,0,C,0,2D3,0,C3,0,F#3,0
+NAME tuneful town
+TMP FST
+SQR P4 P2
+
+TUNE 3
+3F5,0,0,A#,0,2C#5,0,A#,3F5,0,0,F#5,0,0,2F5,0
+A#3,C#,F,0,0,F,C#,F,A#3,C#,F,A#,0,A#,C#,F
+>
+3F5,0,0,A,0,2C#5,0,A,3F5,0,0,2A#5,0,A#,D#5,0
+A3,C#,F,A3,0,F,C#,F,A,C#,F,0,D#,0,C#5,0
+>
+4F5,0,0,0,G#,2C#5,0,G#,3F5,0,0,D#5,0,F5,2C#5,0
+G#3,C#,F,3F#,0,0,2F,0,G#3,C#,F,F#,B,A,F,D#
+>
+4D#5,0,0,0,0,0,2A#,0,4A#,0,0,0,0,0,A#,C5
+G3,D#,F,G,0,D#,F,G,G3,D#,G,F,0,F,D#,C#3
+>
+4C#5,0,0,0,0,0,2C#5,0,3C#5,0,0,D#5,0,0,2C#5,0
+F#2,C#,F#3,A#3,0,F#3,C#3,F#3,F#2,A,F#3,C#,0,F#3,A3,F#3
+>
+3C#5,0,0,F,3C5,0,0,C,3C5,0,0,D#,3A#,0,0,0
+F2,D#3,A3,0,0,F3,C#,0,F#2,A#3,D#3,0,0,F#3,C#,C
+>
+3A#,0,0,0,C5,0,C#5,0,A#,0,C#,D#,G#,G#3,0,C#3
+C3,A#3,C,E,A,0,A#,0,0,B2,B3,0,2F,0,0,0
+>
+A#,0,A#3,0,C#,0,F,0,A#,0,0,0,0,0,0,0
+A#2,0,C#3,0,F3,0,A#3,0,D,0,0,0,0,F#3,0,F3
+NAME rhythmic ruins
+TMP MED
+SQR P4 P4
+
+BLIP 1
+E5,B5,B5
+NAME meow
+ENV 40 99 4 185 138
+BEAT 61 115
+SQR P2
+
+BLIP 2
+D5,E5,D5
+NAME pick up key
+ENV 99 65 6 96 152
+BEAT 95 0
+SQR P4
+
